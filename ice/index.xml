@@ -1,0 +1,38 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE ID="0x4012" PRODUCTNAME="Bose SoundSport">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.0.322" URLPATH="/ced/master/ice/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_1.2.0_stack_plus_app.dfu" LENGTH="1725528" NOFORCE="1" REVISION="1.2.0.322" SUBID="0" />
+        <IMAGE CRC="0XF0E6F5C2" FILENAME="Ice_1.2.0_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.2.0.322" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.18.446" URLPATH="/ced/master/ice/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_1.2.18_stack_plus_app.dfu" LENGTH="1786510" NOFORCE="1" REVISION="1.2.18.446" SUBID="0" />
+        <IMAGE CRC="0X642986E0" FILENAME="Ice_1.2.18_ext_signed.xuv" LENGTH="13128064" NOFORCE="0" REVISION="1.2.18.446" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.3.0.486" URLPATH="/ced/master/ice/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_1.3.0_stack_plus_app.dfu" LENGTH="1786658" NOFORCE="1" REVISION="1.3.0.486" SUBID="0" />
+        <IMAGE CRC="0X9BC2B562" FILENAME="Ice_1.3.0_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.3.0.486" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.3.4.574" URLPATH="/ced/master/ice/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_1.3.4_stack_plus_app.dfu" LENGTH="1787482" NOFORCE="1" REVISION="1.3.4.574" SUBID="0" />
+        <IMAGE CRC="0XE5BDC609" FILENAME="Ice_1.3.4_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.3.4.574" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.5.1.680" URLPATH="/ced/master/ice/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_1.5.1_stack_plus_app.dfu" LENGTH="1789686" NOFORCE="1" REVISION="1.5.1.680" SUBID="0" />
+        <IMAGE CRC="0X9051597D" FILENAME="Ice_1.5.1_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.5.1.680" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="2.5.3.793" URLPATH="/ced/master/ice/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_2.5.3_stack_plus_app.dfu" LENGTH="1790062" NOFORCE="1" REVISION="2.5.3.793" SUBID="0" />
+        <IMAGE CRC="0X37D8A650" FILENAME="Ice_2.5.3_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="2.5.3.793" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="2.7.7.901" URLPATH="/ced/master/ice/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_2.7.7_stack_plus_app.dfu" LENGTH="1814986" NOFORCE="1" REVISION="2.7.7.901" SUBID="0" />
+        <IMAGE CRC="0XA26FC9C1" FILENAME="Ice_2.7.7_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="2.7.7.901" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="3.0.4.950" URLPATH="/ced/master/ice/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_3.0.4_stack_plus_app.dfu" LENGTH="1815222" NOFORCE="1" REVISION="3.0.4.950" SUBID="0" />
+        <IMAGE CRC="0X0098771D" FILENAME="Ice_3.0.4_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="3.0.4.950" SUBID="1" TARGET="1" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
