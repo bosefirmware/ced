@@ -1,0 +1,30 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE EXTERNAL_MICRO="1" ID="0x4010" PRODUCTNAME="Bose Revolve SoundLink" UPDATABLE_QUERY="0">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl,ko,sv" REVISION="1.1.6.5678" URLPATH="/bosefirmware/ced/master/folgers/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Folgers_1.1.6_stack_plus_app.dfu" LENGTH="1828434" NOFORCE="1" REVISION="1.1.6.5678" SUBID="0" />
+        <IMAGE CRC="0X46769C3E" FILENAME="Folgers_1.1.6_ext_signed.xuv" LENGTH="16212544" NOFORCE="0" REVISION="1.1.6.5678" SUBID="1" TARGET="0" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl,ko,sv" REVISION="1.1.8.5788" URLPATH="/bosefirmware/ced/master/folgers/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Folgers_1.1.8_stack_plus_app.dfu" LENGTH="1828518" NOFORCE="1" REVISION="1.1.8.5788" SUBID="0" />
+        <IMAGE CRC="0XABA8D990" FILENAME="Folgers_1.1.8_ext_signed.xuv" LENGTH="16212480" NOFORCE="0" REVISION="1.1.8.5788" SUBID="1" TARGET="0" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl,ko,sv" REVISION="1.2.2.6095" URLPATH="/bosefirmware/ced/master/folgers/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Folgers_1.2.2_stack_plus_app.dfu" LENGTH="1836458" NOFORCE="1" REVISION="1.2.2.6095" SUBID="0" />
+        <IMAGE CRC="0X5B78DD5E" FILENAME="Folgers_1.2.2_ext_signed.xuv" LENGTH="16727424" NOFORCE="0" REVISION="1.2.2.6095" SUBID="1" TARGET="0" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl,ko,sv" REVISION="1.3.3.6266" URLPATH="/bosefirmware/ced/master/folgers/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Folgers_1.3.3_stack_plus_app.dfu" LENGTH="1837682" NOFORCE="1" REVISION="1.3.3.6266" SUBID="0" />
+        <IMAGE CRC="0XD82E827F" FILENAME="Folgers_1.3.3_ext_signed.xuv" LENGTH="16727424" NOFORCE="0" REVISION="1.3.3.6266" SUBID="1" TARGET="0" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl,ko,sv" REVISION="1.5.0.6331" URLPATH="/bosefirmware/ced/master/folgers/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Folgers_1.5.0_stack_plus_app.dfu" LENGTH="1837882" NOFORCE="1" REVISION="1.5.0.6331" SUBID="0" />
+        <IMAGE CRC="0X2068B9D2" FILENAME="Folgers_1.5.0_ext_signed.xuv" LENGTH="16727424" NOFORCE="0" REVISION="1.5.0.6331" SUBID="1" TARGET="0" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl,ko,sv" REVISION="3.0.4.6562" URLPATH="/bosefirmware/ced/master/folgers/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Folgers_3.0.4_stack_plus_app.dfu" LENGTH="1840970" NOFORCE="1" REVISION="3.0.4.6562" SUBID="0" />
+        <IMAGE CRC="0XE80F778F" FILENAME="Folgers_3.0.4_ext_signed.xuv" LENGTH="16727424" NOFORCE="0" REVISION="3.0.4.6562" SUBID="1" TARGET="0" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
