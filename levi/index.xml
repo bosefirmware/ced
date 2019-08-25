@@ -1,0 +1,30 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE ESTIMATED_UPDATE_TIME="7" ID="0x4018" MASTER_SLAVE="TRUE" PRODUCTNAME="Bose SoundSport Free">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="1.1.0.931" URLPATH="/ced/master/levi/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Levi_1.1.0_stack_plus_app.dfu" LENGTH="1848060" NOFORCE="1" REVISION="1.1.0.931" SUBID="0" />
+        <IMAGE CRC="0XAE458679" FILENAME="Levi_1.1.0_ext_signed.xuv" LENGTH="16727456" NOFORCE="0" REVISION="1.1.0.931" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="1.2.0.967" URLPATH="/ced/master/levi/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Levi_1.2.0_stack_plus_app.dfu" LENGTH="1850426" NOFORCE="1" REVISION="1.2.0.967" SUBID="0" />
+        <IMAGE CRC="0X2F58AF61" FILENAME="Levi_1.2.0_ext_signed.xuv" LENGTH="16727456" NOFORCE="0" REVISION="1.2.0.967" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="1.3.2.1014" URLPATH="/ced/master/levi/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Levi_1.3.2_stack_plus_app.dfu" LENGTH="1850766" NOFORCE="1" REVISION="1.3.2.1014" SUBID="0" />
+        <IMAGE CRC="0X923D5830" FILENAME="Levi_1.3.2_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="1.3.2.1014" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="1.4.5.1035" URLPATH="/ced/master/levi/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Levi_1.4.5_stack_plus_app.dfu" LENGTH="1851606" NOFORCE="1" REVISION="1.4.5.1035" SUBID="0" />
+        <IMAGE CRC="0X6C8CBE9E" FILENAME="Levi_1.4.5_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="1.4.5.1035" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.5.6.1070" URLPATH="/ced/master/levi/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Levi_2.5.6_stack_plus_app.dfu" LENGTH="1860182" NOFORCE="1" REVISION="2.5.6.1070" SUBID="0" />
+        <IMAGE CRC="0XF311D031" FILENAME="Levi_2.5.6_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="2.5.6.1070" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.6.0.1094" URLPATH="/ced/master/levi/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Levi_2.6.0_stack_plus_app.dfu" LENGTH="1860182" NOFORCE="1" REVISION="2.6.0.1094" SUBID="0" />
+        <IMAGE CRC="0XE5B48470" FILENAME="Levi_2.6.0_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="2.6.0.1094" SUBID="1" TARGET="1" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
