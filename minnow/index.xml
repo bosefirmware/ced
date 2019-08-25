@@ -1,0 +1,30 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE EXTERNAL_MICRO="0" ID="0x4022" PRODUCTNAME="SoundLink Micro" UPDATABLE_QUERY="0">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="1.0.6.5901" URLPATH="/ced/master/minnow/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Minnow_1.0.6_stack_plus_app.dfu" LENGTH="1751714" NOFORCE="1" REVISION="1.0.6.5901" SUBID="0" />
+        <IMAGE CRC="0X59B52579" FILENAME="Minnow_1.0.6_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="1.0.6.5901" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="1.0.14.6045" URLPATH="/ced/master/minnow/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Minnow_1.0.14_stack_plus_app.dfu" LENGTH="1756054" NOFORCE="1" REVISION="1.0.14.6045" SUBID="0" />
+        <IMAGE CRC="0XF7F86151" FILENAME="Minnow_1.0.14_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="1.0.14.6045" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="1.1.3.6165" URLPATH="/ced/master/minnow/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Minnow_1.1.3_stack_plus_app.dfu" LENGTH="1756434" NOFORCE="1" REVISION="1.1.3.6165" SUBID="0" />
+        <IMAGE CRC="0XC1886D1D" FILENAME="Minnow_1.1.3_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="1.1.3.6165" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="1.2.4.6294" URLPATH="/ced/master/minnow/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Minnow_1.2.4_stack_plus_app.dfu" LENGTH="1757678" NOFORCE="1" REVISION="1.2.4.6294" SUBID="0" />
+        <IMAGE CRC="0XD2A5AE0C" FILENAME="Minnow_1.2.4_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="1.2.4.6294" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="1.5.0.6357" URLPATH="/ced/master/minnow/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Minnow_1.5.0_stack_plus_app.dfu" LENGTH="1757854" NOFORCE="1" REVISION="1.5.0.6357" SUBID="0" />
+        <IMAGE CRC="0X71ACA2A7" FILENAME="Minnow_1.5.0_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="1.5.0.6357" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.6.0.6460" URLPATH="/ced/master/minnow/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Minnow_2.6.0_stack_plus_app.dfu" LENGTH="1757848" NOFORCE="1" REVISION="2.6.0.6460" SUBID="0" />
+        <IMAGE CRC="0XA93E0FC1" FILENAME="Minnow_2.6.0_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="2.6.0.6460" SUBID="1" TARGET="1" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
