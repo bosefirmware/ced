@@ -1,0 +1,10 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE EXTERNAL_MICRO="1" ID="0x4035" PRODUCTNAME="Soundlink Mini Special Edition" UPDATABLE_QUERY="1">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="es-mx,de,it,fr,zh-cn,nl,ja,ru,pl,pt-br,en-us" REVISION="1.0.6.6567" URLPATH="/ced/master/m3/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="M3_1.0.6_stack_plus_app.dfu" LENGTH="1832354" NOFORCE="1" REVISION="1.0.6.6567" SUBID="0" />
+        <IMAGE CRC="0X66F2A025" FILENAME="M3_1.0.6_ext_signed.xuv" LENGTH="11353248" NOFORCE="0" REVISION="1.0.6.6567" SUBID="1" TARGET="0" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
