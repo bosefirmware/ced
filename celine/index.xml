@@ -1,0 +1,18 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE ID="0x402C" PRODUCTNAME="Bose Frames">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us" REVISION="2.1.2-433+ebcf797c" URLPATH="/ced/master/celine/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Celine_2.1.2_stack_plus_app.dfu" LENGTH="1821756" NOFORCE="1" REVISION="2.1.2-433+ebcf797c" SUBID="0" />
+        <IMAGE CRC="0X18600A13" FILENAME="Celine_2.1.2_ext_signed.xuv" LENGTH="2710144" NOFORCE="0" REVISION="2.1.2-433+ebcf797c" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us" REVISION="2.3.1-542+b4b7e83" URLPATH="/ced/master/celine/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Celine_2.3.1_stack_plus_app.dfu" LENGTH="1832164" NOFORCE="1" REVISION="2.3.1-542+b4b7e83" SUBID="0" />
+        <IMAGE CRC="0XACFC0DFC" FILENAME="Celine_2.3.1_ext_signed.xuv" LENGTH="2710144" NOFORCE="0" REVISION="2.3.1-542+b4b7e83" SUBID="1" TARGET="1" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us" REVISION="4.0.3-687+3bbd967" URLPATH="/ced/master/celine/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Celine_4.0.3_stack_plus_app.dfu" LENGTH="1839748" NOFORCE="1" REVISION="4.0.3-687+3bbd967" SUBID="0" />
+        <IMAGE CRC="0X8FD85A78" FILENAME="Celine_4.0.3_ext_signed.xuv" LENGTH="19539680" NOFORCE="0" REVISION="4.0.3-687+3bbd967" SUBID="1" TARGET="1" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
