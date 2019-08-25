@@ -1,52 +1,52 @@
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x4020" PRODUCTNAME="Bose QuietComfort 35 II">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.0.1.936" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.0.1.936" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_2.0.1_stack_plus_app.dfu" LENGTH="1866692" NOFORCE="1" REVISION="2.0.1.936" SUBID="0" />
         <IMAGE CRC="0X7098F24A" FILENAME="BayWolf_2.0.1_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="2.0.1.936" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_2.0.1_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="2.0.1.936" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.1.3.1025" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.1.3.1025" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_2.1.3_stack_plus_app.dfu" LENGTH="1870848" NOFORCE="1" REVISION="2.1.3.1025" SUBID="0" />
         <IMAGE CRC="0X357F9FB5" FILENAME="BayWolf_2.1.3_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="2.1.3.1025" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_2.1.3_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="2.1.3.1025" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.2.0.1136" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.2.0.1136" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_2.2.0_stack_plus_app.dfu" LENGTH="1894628" NOFORCE="1" REVISION="2.2.0.1136" SUBID="0" />
         <IMAGE CRC="0X007EEB6B" FILENAME="BayWolf_2.2.0_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="2.2.0.1136" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_2.2.0_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="2.2.0.1136" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.2.1.1161" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.2.1.1161" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_2.2.1_stack_plus_app.dfu" LENGTH="1894468" NOFORCE="1" REVISION="2.2.1.1161" SUBID="0" />
         <IMAGE CRC="0XFD300DCB" FILENAME="BayWolf_2.2.1_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="2.2.1.1161" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_2.2.1_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="2.2.1.1161" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.5.1.1182" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="2.5.1.1182" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_2.5.1_stack_plus_app.dfu" LENGTH="1894976" NOFORCE="1" REVISION="2.5.1.1182" SUBID="0" />
         <IMAGE CRC="0X592865FB" FILENAME="BayWolf_2.5.1_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="2.5.1.1182" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_2.5.1_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="2.5.1.1182" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="3.1.7.1790" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="3.1.7.1790" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_3.1.7_stack_plus_app.dfu" LENGTH="1899404" NOFORCE="1" REVISION="3.1.7.1790" SUBID="0" />
         <IMAGE CRC="0XF8B245B0" FILENAME="BayWolf_3.1.7_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="3.1.7.1790" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_3.1.7_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="3.1.7.1790" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="3.1.8.1835" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="3.1.8.1835" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_3.1.8_stack_plus_app.dfu" LENGTH="1899496" NOFORCE="1" REVISION="3.1.8.1835" SUBID="0" />
         <IMAGE CRC="0X3F094999" FILENAME="BayWolf_3.1.8_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="3.1.8.1835" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_3.1.8_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="3.1.8.1835" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="4.1.3.1861" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="4.1.3.1861" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_4.1.3_stack_plus_app.dfu" LENGTH="1919516" NOFORCE="1" REVISION="4.1.3.1861" SUBID="0" />
         <IMAGE CRC="0X9DAB4BD3" FILENAME="BayWolf_4.1.3_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="4.1.3.1861" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_4.1.3_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="4.1.3.1861" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="4.3.6.105" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="4.3.6.105" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_4.3.6_stack_plus_app.dfu" LENGTH="1939792" NOFORCE="1" REVISION="4.3.6.105" SUBID="0" />
         <IMAGE CRC="0X85BE229C" FILENAME="BayWolf_4.3.6_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="4.3.6.105" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_4.3.6_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="4.3.6.105" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="4.5.2.144" URLPATH="/BoseFirmware/ced/baywolf/">
+      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="4.5.2.144" URLPATH="/bosefirmware/ced/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_4.5.2_stack_plus_app.dfu" LENGTH="1942460" NOFORCE="1" REVISION="4.5.2.144" SUBID="0" />
         <IMAGE CRC="0XC64078AA" FILENAME="BayWolf_4.5.2_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="4.5.2.144" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_4.5.2_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="4.5.2.144" SUBID="2" TARGET="3" />
