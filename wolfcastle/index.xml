@@ -1,62 +1,62 @@
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x400C" PRODUCTNAME="Bose QuietComfort 35">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.0.290" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.0.290" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.0.0_stack_plus_app.dfu" LENGTH="1696110" NOFORCE="1" REVISION="1.0.0.290" SUBID="0" />
         <IMAGE CRC="0X7E4E34FE" FILENAME="Wolfcastle_1.0.0_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.0.0.290" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XDB44852A" FILENAME="Wolfcastle_1.0.0_acorn_coeffs_signed.xuv" LENGTH="25280" NOFORCE="0" REVISION="1.0.0.290" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.3.301" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.3.301" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.0.3_stack_plus_app.dfu" LENGTH="1697042" NOFORCE="1" REVISION="1.0.3.301" SUBID="0" />
         <IMAGE CRC="0XF00704D1" FILENAME="Wolfcastle_1.0.3_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.0.3.301" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XDB44852A" FILENAME="Wolfcastle_1.0.3_acorn_coeffs_signed.xuv" LENGTH="25280" NOFORCE="0" REVISION="1.0.3.301" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.4.312" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.4.312" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.0.4_stack_plus_app.dfu" LENGTH="1697278" NOFORCE="1" REVISION="1.0.4.312" SUBID="0" />
         <IMAGE CRC="0X8A9F0277" FILENAME="Wolfcastle_1.0.4_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.0.4.312" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XDB44852A" FILENAME="Wolfcastle_1.0.4_acorn_coeffs_signed.xuv" LENGTH="25280" NOFORCE="0" REVISION="1.0.4.312" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.5.314" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.5.314" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.0.5_stack_plus_app.dfu" LENGTH="1700934" NOFORCE="1" REVISION="1.0.5.314" SUBID="0" />
         <IMAGE CRC="0X94308292" FILENAME="Wolfcastle_1.0.5_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.0.5.314" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XDB44852A" FILENAME="Wolfcastle_1.0.5_acorn_coeffs_signed.xuv" LENGTH="25280" NOFORCE="0" REVISION="1.0.5.314" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.6.325" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.0.6.325" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.0.6_stack_plus_app.dfu" LENGTH="1701758" NOFORCE="1" REVISION="1.0.6.325" SUBID="0" />
         <IMAGE CRC="0X04600D2B" FILENAME="Wolfcastle_1.0.6_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.0.6.325" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XDB44852A" FILENAME="Wolfcastle_1.0.6_acorn_coeffs_signed.xuv" LENGTH="25280" NOFORCE="0" REVISION="1.0.6.325" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.9.454" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.9.454" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.2.9_stack_plus_app.dfu" LENGTH="1802052" NOFORCE="1" REVISION="1.2.9.454" SUBID="0" />
         <IMAGE CRC="0X80E31801" FILENAME="Wolfcastle_1.2.9_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.2.9.454" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XDB44852A" FILENAME="Wolfcastle_1.2.9_acorn_coeffs_signed.xuv" LENGTH="25280" NOFORCE="0" REVISION="1.2.9.454" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.3.2.650" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.3.2.650" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.3.2_stack_plus_app.dfu" LENGTH="1803940" NOFORCE="1" REVISION="1.3.2.650" SUBID="0" />
         <IMAGE CRC="0XC932BB57" FILENAME="Wolfcastle_1.3.2_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.3.2.650" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XB0AE1A35" FILENAME="Wolfcastle_1.3.2_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="1.3.2.650" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.3.6.734" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.3.6.734" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.3.6_stack_plus_app.dfu" LENGTH="1804896" NOFORCE="1" REVISION="1.3.6.734" SUBID="0" />
         <IMAGE CRC="0X45E14A4E" FILENAME="Wolfcastle_1.3.6_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.3.6.734" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XB0AE1A35" FILENAME="Wolfcastle_1.3.6_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="1.3.6.734" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.5.1.752" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.5.1.752" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.5.1_stack_plus_app.dfu" LENGTH="1806292" NOFORCE="1" REVISION="1.5.1.752" SUBID="0" />
         <IMAGE CRC="0XD476455C" FILENAME="Wolfcastle_1.5.1_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.5.1.752" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XB0AE1A35" FILENAME="Wolfcastle_1.5.1_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="1.5.1.752" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="2.5.3.775" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="2.5.3.775" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_2.5.3_stack_plus_app.dfu" LENGTH="1806668" NOFORCE="1" REVISION="2.5.3.775" SUBID="0" />
         <IMAGE CRC="0XEE24F0FD" FILENAME="Wolfcastle_2.5.3_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="2.5.3.775" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XB0AE1A35" FILENAME="Wolfcastle_2.5.3_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="2.5.3.775" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="2.5.5.828" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="2.5.5.828" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_2.5.5_stack_plus_app.dfu" LENGTH="1810508" NOFORCE="1" REVISION="2.5.5.828" SUBID="0" />
         <IMAGE CRC="0XDD944D55" FILENAME="Wolfcastle_2.5.5_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="2.5.5.828" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XB0AE1A35" FILENAME="Wolfcastle_2.5.5_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="2.5.5.828" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="github.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="3.0.3.843" URLPATH="/bosefirmware/ced/wolfcastle/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="3.0.3.843" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_3.0.3_stack_plus_app.dfu" LENGTH="1813116" NOFORCE="1" REVISION="3.0.3.843" SUBID="0" />
         <IMAGE CRC="0XD16FEDCA" FILENAME="Wolfcastle_3.0.3_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="3.0.3.843" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XB0AE1A35" FILENAME="Wolfcastle_3.0.3_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="3.0.3.843" SUBID="2" TARGET="3" />
