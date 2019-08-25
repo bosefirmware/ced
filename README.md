@@ -23,5 +23,5 @@ Bose SoundSport Free = Levi<br>
 Bose SoundSport Pulse = Flurry<br>
 Bose SoundWear Companion speaker = Kleos<br>
 
-
+http://btu.bose.com/
 https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/
