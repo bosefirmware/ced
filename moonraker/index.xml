@@ -1,0 +1,14 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE ID="0x4008" PRODUCTNAME="Bose OE SoundLink" >
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE REVISION="1.0.3.329" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/ced/master/moonraker/" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl">
+	  <IMAGE SUBID="0" LENGTH="1524048" CRC="0XFFFFFFFF" FILENAME="Moonraker_1.0.3_stack_plus_app.dfu" NOFORCE="1" REVISION="1.0.3.329"/>
+	  <IMAGE SUBID="1" LENGTH="11353376" CRC="0XAA6D019E" FILENAME="Moonraker_1.0.3_ext_signed.xuv" NOFORCE="0" REVISION="1.0.3.329"/>
+      </RELEASE>
+      <RELEASE REVISION="1.0.4.337" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/ced/master/moonraker/" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl">
+	  <IMAGE SUBID="0" LENGTH="1524100" CRC="0XFFFFFFFF" FILENAME="Moonraker_1.0.4_stack_plus_app.dfu" NOFORCE="1" REVISION="1.0.4.337"/>
+	  <IMAGE SUBID="1" LENGTH="11353376" CRC="0XDAE6E108" FILENAME="Moonraker_1.0.4_ext_signed.xuv" NOFORCE="0" REVISION="1.0.4.337"/>
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
