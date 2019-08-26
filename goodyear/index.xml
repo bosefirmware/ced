@@ -1,10 +1,10 @@
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x4024" PRODUCTNAME="ANR Bluetooth headphone" USE_CLOUD="1">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.0.9-863+47372cb" URLPATH="/ced/master/goodyear/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.0.9-863+47372cb" URLPATH="/bosefirmware/ced/master/goodyear/">
         <IMAGE CRC="0X7D2D3718" FILENAME="goodyear_encrypted_prod_1.0.9-47372cb.bin" LENGTH="6520052" NOFORCE="1" REVISION="1.0.9-863+47372cb" SUBID="0" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.1.4-1144+be3bf4b" URLPATH="/ced/master/goodyear/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.1.4-1144+be3bf4b" URLPATH="/bosefirmware/ced/master/goodyear/">
         <IMAGE CRC="0X0092049F" FILENAME="goodyear_encrypted_prod_1.1.4-be3bf4b.bin" LENGTH="6662964" NOFORCE="1" REVISION="1.1.4-1144+be3bf4b" SUBID="0" />
       </RELEASE>
     </HARDWARE>
