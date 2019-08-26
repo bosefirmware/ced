@@ -1,27 +1,27 @@
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x4013" PRODUCTNAME="Bose SoundSport Pulse">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.3.446" URLPATH="/ced/master/flurry/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.3.446" URLPATH="/bosefirmware/ced/master/flurry/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Flurry_1.2.3_stack_plus_app.dfu" LENGTH="1795024" NOFORCE="1" REVISION="1.2.3.446" SUBID="0" />
         <IMAGE CRC="0X93097702" FILENAME="Flurry_1.2.3_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.2.3.446" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.4.486" URLPATH="/ced/master/flurry/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.4.486" URLPATH="/bosefirmware/ced/master/flurry/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Flurry_1.2.4_stack_plus_app.dfu" LENGTH="1795180" NOFORCE="1" REVISION="1.2.4.486" SUBID="0" />
         <IMAGE CRC="0X4FAEC962" FILENAME="Flurry_1.2.4_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.2.4.486" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.7.567" URLPATH="/ced/master/flurry/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.7.567" URLPATH="/bosefirmware/ced/master/flurry/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Flurry_1.2.7_stack_plus_app.dfu" LENGTH="1796008" NOFORCE="1" REVISION="1.2.7.567" SUBID="0" />
         <IMAGE CRC="0X88B41876" FILENAME="Flurry_1.2.7_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.2.7.567" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.5.1.680" URLPATH="/ced/master/flurry/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.5.1.680" URLPATH="/bosefirmware/ced/master/flurry/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Flurry_1.5.1_stack_plus_app.dfu" LENGTH="1798204" NOFORCE="1" REVISION="1.5.1.680" SUBID="0" />
         <IMAGE CRC="0X9051597D" FILENAME="Flurry_1.5.1_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.5.1.680" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="2.5.3.789" URLPATH="/ced/master/flurry/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="2.5.3.789" URLPATH="/bosefirmware/ced/master/flurry/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Flurry_2.5.3_stack_plus_app.dfu" LENGTH="1798580" NOFORCE="1" REVISION="2.5.3.789" SUBID="0" />
         <IMAGE CRC="0X9244D6ED" FILENAME="Flurry_2.5.3_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="2.5.3.789" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="3.0.3.935" URLPATH="/ced/master/flurry/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="3.0.3.935" URLPATH="/bosefirmware/ced/master/flurry/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Flurry_3.0.3_stack_plus_app.dfu" LENGTH="1804648" NOFORCE="1" REVISION="3.0.3.935" SUBID="0" />
         <IMAGE CRC="0X2BE2BB2C" FILENAME="Flurry_3.0.3_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="3.0.3.935" SUBID="1" TARGET="1" />
       </RELEASE>
