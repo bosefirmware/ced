@@ -1,39 +1,39 @@
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x400A" PRODUCTNAME="Bose AE2 SoundLink">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.0.4.404" URLPATH="/ced/master/isaac/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.0.4.404" URLPATH="/bosefirmware/ced/master/isaac/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Isaac_1.0.4_stack_plus_app.dfu" LENGTH="1495518" NOFORCE="1" REVISION="1.0.4.404" SUBID="0" />
         <IMAGE CRC="0X4BAB8D2F" FILENAME="Isaac_1.0.4_ext_signed.xuv" LENGTH="11761088" NOFORCE="0" REVISION="1.0.4.404" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.0.8.419" URLPATH="/ced/master/isaac/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.0.8.419" URLPATH="/bosefirmware/ced/master/isaac/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Isaac_1.0.8_stack_plus_app.dfu" LENGTH="1496130" NOFORCE="1" REVISION="1.0.8.419" SUBID="0" />
         <IMAGE CRC="0XAA510664" FILENAME="Isaac_1.0.8_ext_signed.xuv" LENGTH="11761088" NOFORCE="0" REVISION="1.0.8.419" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.0.9.421" URLPATH="/ced/master/isaac/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.0.9.421" URLPATH="/bosefirmware/ced/master/isaac/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Isaac_1.0.9_stack_plus_app.dfu" LENGTH="1495486" NOFORCE="1" REVISION="1.0.9.421" SUBID="0" />
         <IMAGE CRC="0X94546E5C" FILENAME="Isaac_1.0.9_ext_signed.xuv" LENGTH="11761088" NOFORCE="0" REVISION="1.0.9.421" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.0.0.426" URLPATH="/ced/master/isaac/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.0.0.426" URLPATH="/bosefirmware/ced/master/isaac/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Isaac_2.0.0_stack_plus_app.dfu" LENGTH="1549932" NOFORCE="1" REVISION="2.0.0.426" SUBID="0" />
         <IMAGE CRC="0X4EE8D8F3" FILENAME="Isaac_2.0.0_ext_signed.xuv" LENGTH="11761088" NOFORCE="0" REVISION="2.0.0.426" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.2.1.508" URLPATH="/ced/master/isaac/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.2.1.508" URLPATH="/bosefirmware/ced/master/isaac/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Isaac_2.2.1_stack_plus_app.dfu" LENGTH="1729570" NOFORCE="1" REVISION="2.2.1.508" SUBID="0" />
         <IMAGE CRC="0X4C7A2D6C" FILENAME="Isaac_2.2.1_ext_signed.xuv" LENGTH="11761088" NOFORCE="0" REVISION="2.2.1.508" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.2.6.522" URLPATH="/ced/master/isaac/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.2.6.522" URLPATH="/bosefirmware/ced/master/isaac/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Isaac_2.2.6_stack_plus_app.dfu" LENGTH="1738514" NOFORCE="1" REVISION="2.2.6.522" SUBID="0" />
         <IMAGE CRC="0X3B7CA423" FILENAME="Isaac_2.2.6_ext_signed.xuv" LENGTH="11761088" NOFORCE="0" REVISION="2.2.6.522" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.2.9.535" URLPATH="/ced/master/isaac/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.2.9.535" URLPATH="/bosefirmware/ced/master/isaac/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Isaac_2.2.9_stack_plus_app.dfu" LENGTH="1738638" NOFORCE="1" REVISION="2.2.9.535" SUBID="0" />
         <IMAGE CRC="0XB252DCC6" FILENAME="Isaac_2.2.9_ext_signed.xuv" LENGTH="11761088" NOFORCE="0" REVISION="2.2.9.535" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.5.3.602" URLPATH="/ced/master/isaac/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.5.3.602" URLPATH="/bosefirmware/ced/master/isaac/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Isaac_2.5.3_stack_plus_app.dfu" LENGTH="1741814" NOFORCE="1" REVISION="2.5.3.602" SUBID="0" />
         <IMAGE CRC="0X4678AA7F" FILENAME="Isaac_2.5.3_ext_signed.xuv" LENGTH="11761088" NOFORCE="0" REVISION="2.5.3.602" SUBID="1" TARGET="1" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="3.0.3.617" URLPATH="/ced/master/isaac/">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="3.0.3.617" URLPATH="/bosefirmware/ced/master/isaac/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Isaac_3.0.3_stack_plus_app.dfu" LENGTH="1769038" NOFORCE="1" REVISION="3.0.3.617" SUBID="0" />
         <IMAGE CRC="0XB1C66837" FILENAME="Isaac_3.0.3_ext_signed.xuv" LENGTH="11761088" NOFORCE="0" REVISION="3.0.3.617" SUBID="1" TARGET="1" />
       </RELEASE>
