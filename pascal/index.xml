@@ -1,11 +1,11 @@
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x4023" PRODUCTNAME="Bose On-Ear Wireless">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE REVISION="0.0.9.1" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced/master/pascal/" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl">
+      <RELEASE REVISION="0.0.9.1" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/ced/master/pascal/" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl">
             <IMAGE SUBID="0" LENGTH="1522436" CRC="0XFFFFFFFF" FILENAME="Pascal_0.0.9_stack_plus_app.dfu" NOFORCE="1" REVISION="0.0.9.1"/>
             <IMAGE SUBID="1" LENGTH="11353344" CRC="0XB1AA6799" FILENAME="Pascal_0.0.9_ext_signed.xuv" NOFORCE="0" REVISION="0.0.9.1"/>
       </RELEASE>
-      <RELEASE REVISION="1.0.0.4" HTTPHOST="raw.githubusercontent.com" URLPATH="/ced/master/pascal/" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl">
+      <RELEASE REVISION="1.0.0.4" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/ced/master/pascal/" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl">
             <IMAGE SUBID="0" LENGTH="1522452" CRC="0XFFFFFFFF" FILENAME="Pascal_1.0.0_stack_plus_app.dfu" NOFORCE="1" REVISION="1.0.0.4"/>
             <IMAGE SUBID="1" LENGTH="11353376" CRC="0X5BFFE4C1" FILENAME="Pascal_1.0.0_ext_signed.xuv" NOFORCE="0" REVISION="1.0.0.4"/>
       </RELEASE>
