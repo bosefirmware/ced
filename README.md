@@ -30,7 +30,7 @@ The instructions provided below were modified from instructions <a href="https:/
   <li>Download BOSEUPDATER.EXE (version 6.0.0.4388) from here https://gofile.io/?c=bE3yK1</li>
   <li>Copy and replace the file in "C:\Program Files (x86)\Bose Updater"</li>
   <li>Make sure you close the app before replacing the file. You can close it on the taskbar (right click -> exit)</li>
-  <li>Plug your headset or speaker and go to btu.bose.com</li>
+  <li>Plug your headset or speaker and go to https://btu.bose.com</li>
   <li>When prompted launch the app.</li>
   <li>When you see this screen (<a href="https://imgur.com/a/xGijdYC">Screenshot 1</a>) press the following key combination.'a' 'd' 'v' 'up arrow' 'down arrow' and you will see the following screen (<a href="https://imgur.com/a/yTLalsc">Screenshot 2</a>)</li>
   <li>Now you can select the firmware and click on Update.</li>
