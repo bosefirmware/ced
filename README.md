@@ -42,11 +42,11 @@ The instructions provided below were modified from instructions <a href="https:/
 
 Information:</br>
 These instructions are for BOSEUPDATER.EXE found on Windows OS.</br>
-Bose uses the "Bose Update" software with conjunction to the website https://btu.bose.com.</br>
+Bose uses the "Bose Update" software with conjunction to the website https://btu.bose.com</br>
 
 Step 1: Change the initial lookup link from the "Bose Update" app.</br>
-The Bose update app location is here "C:\Program Files (x86)\Bose Updater".
 <ol>
+  <li>The Bose update app location is in "C:\Program Files (x86)\Bose Updater"</li>
   <li>Make an original backup of the file "BOSEUPDATER.EXE" and rename it to something like "BOSEUPDATER.EXE.backup"</li>
   <li>Download and install a hex editor. I used https://mh-nexus.de/en/hxd/</li>
   <li>Copy the BOSEUPDATER.EXE file to your desktop.</li>
