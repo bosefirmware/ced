@@ -24,7 +24,7 @@ Bose SoundSport Pulse = Flurry<br>
 Bose SoundWear Companion speaker = Kleos<br>
 </br></br>
 The instructions provided below were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
-
+</br></br>
 <b>BOSE DOWNGRADE PROCESS:</b> (windows only)
 <ol>
   <li>Download BOSEUPDATER.EXE (version 6.0.0.4388) from here https://gofile.io/?c=bE3yK1</li>
@@ -57,7 +57,7 @@ The Bose update app location is here "C:\Program Files (x86)\Bose Updater".
   <li>Save the file and copy and replace it back to "C:\Program Files (x86)\Bose Updater"</li>
   <li>Run the app to see if it launches correctly. (It will show the icon on the bottom right on your taskbar) and then exit the app (right click and Select Exit)</li>
 </ol>
-</br>
+
 Step 2: Update via Advanced method.</br>
 <ol>
   <li>Be sure to have closed the "Bose Update app"</li>
