@@ -22,7 +22,7 @@ Bose SoundSport = Ice<br>
 Bose SoundSport Free = Levi<br>
 Bose SoundSport Pulse = Flurry<br>
 Bose SoundWear Companion speaker = Kleos<br>
-
+</br></br>
 The instructions provided below were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
 
 <b>BOSE DOWNGRADE PROCESS:</b> (windows only)
