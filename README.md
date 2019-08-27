@@ -41,7 +41,7 @@ The instructions provided below were modified from instructions <a href="https:/
 <b>ADVANCED DOWNGRADE PROCESS:</b>
 
 Information:</br>
-I did this on Windows OS. This is for advanced users obviously</br>
+These instructions are for BOSEUPDATER.EXE found on Windows OS.</br>
 Bose uses the "Bose Update" software with conjunction to the website https://btu.bose.com.</br>
 
 Step 1: Change the initial lookup link from the "Bose Update" app.</br>
@@ -61,7 +61,7 @@ The Bose update app location is here "C:\Program Files (x86)\Bose Updater".
 Step 2: Update via Advanced method.</br>
 <ol>
   <li>Be sure to have closed the "Bose Update app"</li>
-  <li>Turn off your headphones and connect them via USB.</li>
+  <li>Turn off your headset or speaker and connect it via USB.</li>
   <li>Go to https://btu.bose.com and wait until it prompts you to launch the app (or launch it manually from "C:\Program Files (x86)\Bose Updater"</li>
   <li>When you see this screen (<a href="https://imgur.com/a/xGijdYC">Screenshot 1</a>) press the following key combination.'a' 'd' 'v' 'up arrow' 'down arrow' and you will see the following screen (<a href="https://imgur.com/a/yTLalsc">Screenshot 2</a>)</li>
   <li>Now you can select the firmware and click on Update.</li>
