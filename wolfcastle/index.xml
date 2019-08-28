@@ -26,11 +26,6 @@
         <IMAGE CRC="0X04600D2B" FILENAME="Wolfcastle_1.0.6_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.0.6.325" SUBID="1" TARGET="1" />
         <IMAGE CRC="0XDB44852A" FILENAME="Wolfcastle_1.0.6_acorn_coeffs_signed.xuv" LENGTH="25280" NOFORCE="0" REVISION="1.0.6.325" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.2.9.454" URLPATH="/bosefirmware/ced/master/wolfcastle/">
-        <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.2.9_stack_plus_app.dfu" LENGTH="1802052" NOFORCE="1" REVISION="1.2.9.454" SUBID="0" />
-        <IMAGE CRC="0X80E31801" FILENAME="Wolfcastle_1.2.9_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.2.9.454" SUBID="1" TARGET="1" />
-        <IMAGE CRC="0XDB44852A" FILENAME="Wolfcastle_1.2.9_acorn_coeffs_signed.xuv" LENGTH="25280" NOFORCE="0" REVISION="1.2.9.454" SUBID="2" TARGET="3" />
-      </RELEASE>
       <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.3.2.650" URLPATH="/bosefirmware/ced/master/wolfcastle/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Wolfcastle_1.3.2_stack_plus_app.dfu" LENGTH="1803940" NOFORCE="1" REVISION="1.3.2.650" SUBID="0" />
         <IMAGE CRC="0XC932BB57" FILENAME="Wolfcastle_1.3.2_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.3.2.650" SUBID="1" TARGET="1" />
