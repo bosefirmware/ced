@@ -27,7 +27,7 @@ The instructions provided below were modified from instructions <a href="https:/
 </br></br>
 <b>BOSE DOWNGRADE PROCESS:</b> (windows only)
 <ol>
-  <li>Download BOSEUPDATER.EXE (version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdaterInstaller_6.0.0.4388.exe">6.0.0.4388</a>) from <a href="https://github.com/bosefirmware/ced/raw/master/BOSEUPDATER.EXE">here</a></li>
+  <li>Download the edited BOSEUPDATER.EXE (version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdaterInstaller_6.0.0.4388.exe">6.0.0.4388</a>) from <a href="https://github.com/bosefirmware/ced/raw/master/BOSEUPDATER.EXE">here</a></li>
   <li>Copy and replace the file in "C:\Program Files (x86)\Bose Updater"</li>
   <li>Make sure you close the app before replacing the file. You can close it on the taskbar (right click -> exit)</li>
   <li>Plug your headset or speaker and go to https://btu.bose.com</li>
