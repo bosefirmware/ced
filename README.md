@@ -5,7 +5,7 @@ ced
 <a href="https://github.com/bosefirmware/ced/blob/master/isaac/README.md">Bose AE2 SoundLink = Isaac</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/celine/README.md">Bose Frames = Celine</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/celine2/README.md">Bose Frames = Celine2</a><br>
-Bose Noise Cancelling Headphones 700 = Goodyear<br>
+<a href="https://github.com/bosefirmware/ced/blob/master/goodyear/README.md">Bose Noise Cancelling Headphones 700 = Goodyear</a><br>
 Bose OE SoundLink = Moonraker<br>
 Bose On-Ear Wireless = Pascal<br>
 <a href="https://github.com/bosefirmware/ced/blob/master/wolfcastle/README.md">Bose QuietComfort 35 = Wolfcastle</a><br>
