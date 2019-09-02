@@ -3,8 +3,8 @@
 ced
 
 <a href="https://github.com/bosefirmware/ced/blob/master/isaac/README.md">Bose AE2 SoundLink = Isaac</a><br>
-Bose Frames = Celine<br>
-Bose Frames = Celine2<br>
+<a href="https://github.com/bosefirmware/ced/blob/master/celine/README.md">Bose Frames = Celine</a><br>
+<a href="https://github.com/bosefirmware/ced/blob/master/celine2/README.md">Bose Frames = Celine2</a><br>
 Bose Noise Cancelling Headphones 700 = Goodyear<br>
 Bose OE SoundLink = Moonraker<br>
 Bose On-Ear Wireless = Pascal<br>
