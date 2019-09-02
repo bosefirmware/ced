@@ -14,8 +14,8 @@ ced
 <a href="https://github.com/bosefirmware/ced/blob/master/champ/README.md">Bose SoundLink Color = Champ</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/foreman/README.md">Bose SoundLink Color II = Foreman</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/minnow/README.md">Bose SoundLink Micro = Minnow</a><br>
-Bose SoundLink Mini Special Edition = M3<br>
-Bose SoundLink Mini II = KCup<br>
+<a href="https://github.com/bosefirmware/ced/blob/master/m3/README.md">Bose SoundLink Mini Special Edition = M3</a><br>
+<a href="https://github.com/bosefirmware/ced/blob/master/kcup/README.md">Bose SoundLink Mini II = KCup</a><br>
 Bose SoundLink Revolve = Folgers<br>
 Bose SoundLink Revolve+ = Harvey<br>
 Bose SoundSport = Ice<br>
