@@ -16,8 +16,8 @@ ced
 <a href="https://github.com/bosefirmware/ced/blob/master/minnow/README.md">Bose SoundLink Micro = Minnow</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/m3/README.md">Bose SoundLink Mini Special Edition = M3</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/kcup/README.md">Bose SoundLink Mini II = KCup</a><br>
-Bose SoundLink Revolve = Folgers<br>
-Bose SoundLink Revolve+ = Harvey<br>
+<a href="https://github.com/bosefirmware/ced/blob/master/folgers/README.md">Bose SoundLink Revolve = Folgers</a><br>
+<a href="https://github.com/bosefirmware/ced/blob/master/harvey/README.md">Bose SoundLink Revolve+ = Harvey</a><br>
 Bose SoundSport = Ice<br>
 Bose SoundSport Free = Levi<br>
 Bose SoundSport Pulse = Flurry<br>
