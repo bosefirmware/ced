@@ -8,7 +8,7 @@ Bose Frames = Celine2<br>
 Bose Noise Cancelling Headphones 700 = Goodyear<br>
 Bose OE SoundLink = Moonraker<br>
 Bose On-Ear Wireless = Pascal<br>
-Bose QuietComfort 35 = Wolfcastle<br>
+<a href="https://github.com/bosefirmware/ced/raw/master/wolfcastle/README.md">Bose QuietComfort 35 = Wolfcastle</a><br>
 <a href="https://github.com/bosefirmware/ced/raw/master/baywolf/README.md">Bose QuietComfort 35 II = BayWolf</a><br>
 Bose QuietControl 30 = Powder<br>
 Bose SoundLink Color = Champ<br>
