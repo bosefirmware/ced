@@ -21,7 +21,7 @@ ced
 <a href="https://github.com/bosefirmware/ced/blob/master/levi/README.md">Bose SoundSport Free = Levi</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/flurry/README.md">Bose SoundSport Pulse = Flurry</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/ice/README.md">Bose SoundSport Wireless = Ice</a><br>
-Bose SoundWear Companion speaker = Kleos<br>
+<a href="https://github.com/bosefirmware/ced/blob/master/kleos/README.md">Bose SoundWear Companion speaker = Kleos</a><br>
 </br></br>
 The instructions provided below were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
 </br></br>
