@@ -1,14 +1,14 @@
 Bose AE2 SoundLink = Isaac</br>
-1.0.4 : ?</br>
-1.0.8 : ?</br>
-1.0.9 : ?</br>
-2.0.0 : ?</br>
-2.2.1 : ?</br>
-2.2.6 : <a href="https://community.bose.com/t5/Headphones-Archive/Bose-Connect-App-3-1-0-Update-Available/m-p/37329">Jan 18, 2017</a></br>
+&#9677; 1.0.4 : ?</br>
+&#9677; 1.0.8 : ?</br>
+&#9677; 1.0.9 : ?</br>
+&#9677; 2.0.0 : ?</br>
+&#9677; 2.2.1 : ?</br>
+&#9677; 2.2.6 : <a href="https://community.bose.com/t5/Headphones-Archive/Bose-Connect-App-3-1-0-Update-Available/m-p/37329">Jan 18, 2017</a></br>
 <ul>
   <li>New Feature: “Music Sharing”. This allows customers to connect two wireless headphones at the same time and share their favorite movie or music playlist. A Firmware update is needed on all Bose connect app compatible headsets in order to enable this feature.</li>
 </ul>
-2.2.9 : <a href="https://community.bose.com/t5/Headphones-Archive/Firmware-Update-Available-SoundSport-Wireless-Pulse-SoundLink/td-p/44418">Mar 23, 2017</a></br>
+&#9677; 2.2.9 : <a href="https://community.bose.com/t5/Headphones-Archive/Firmware-Update-Available-SoundSport-Wireless-Pulse-SoundLink/td-p/44418">Mar 23, 2017</a></br>
 <ul>
   <li>Improved audio performance during quiet sections of audio.</li>
   <li>Improved interoperability with some devices.</li>
@@ -20,7 +20,7 @@ Bose AE2 SoundLink = Isaac</br>
   <li>An audio issue relating to Facebook and What'sapp. </li>
   <li>Audio dropouts using the music share feature.</li>
 </ul>
-2.2.11 : <a href="https://community.bose.com/t5/Headphones-Archive/Wireless-Headphones-Firmware-Updates-Available/m-p/78417">Oct 05, 2017</a></br>
+&#9677; 2.2.11 : <a href="https://community.bose.com/t5/Headphones-Archive/Wireless-Headphones-Firmware-Updates-Available/m-p/78417">Oct 05, 2017</a></br>
 <ul>
   <li>Resolves an issue with WhatsApp and Facebook videos when using music sharing with another headset.  When audio is being played through two headsets using music sharing mode and the customer switches to Facebook or WhatsApp, the audio that was playing should pause and play the WhatsApp or Facebook audio through both headsets.  This has now been resolved.</li>
   <li>Fixes an issue where you cannot listen to the WhatsApp voice message when listening to a music source, such as Apple Music or Spotify.  Before the fix, you would have to manually stop the music then play the voice message. Now, you can play voice messages and the music will stop automatically. Once the message is done, the music will return.</li>
@@ -28,17 +28,17 @@ Bose AE2 SoundLink = Isaac</br>
   <li>Fixes an issue where the Bose Connect app OTA firmware update counter starts and restarts multiple times when downloading a firmware update.</li>
   <li>General Music Sharing improvements with audio delay.</li>
 </ul>
-2.5.1 : <a href="https://community.bose.com/t5/Headphones-Archive/Bluetooth-Headphones-Firmware-Release-March-2018/m-p/115745">Mar 14, 2018</a></br>
+&#9677; 2.5.1 : <a href="https://community.bose.com/t5/Headphones-Archive/Bluetooth-Headphones-Firmware-Release-March-2018/m-p/115745">Mar 14, 2018</a></br>
 <ul>
   <li>Bug fixes and improvements to the music sharing experience</li>
   <li>Improves ringtone volume on iOS devices where it could be louder than expected</li>
 </ul>
-2.5.3 : <a href="https://community.bose.com/t5/Headphones-Archive/Updated-10-31-New-Firmware-Update-for-Bluetooth-Headphones/m-p/147985">Sep 27, 2018</a></br>
+&#9677; 2.5.3 : <a href="https://community.bose.com/t5/Headphones-Archive/Updated-10-31-New-Firmware-Update-for-Bluetooth-Headphones/m-p/147985">Sep 27, 2018</a></br>
 <ul>
   <li>Bug fixes and improvements</li>
   <li>Improves multi-point experience with some mobile devices</li>
 </ul>
-3.0.3 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/SoundLink-AE-II-Firmware-Update-August-21-2019/m-p/231585">Aug 21 2019</a></br>
+&#9677; 3.0.3 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/SoundLink-AE-II-Firmware-Update-August-21-2019/m-p/231585">Aug 21 2019</a></br>
 <ul>
   <li>Fixed pairing issues with Windows 10</li>
   <li>Performance improvements in music sharing mode</li>
