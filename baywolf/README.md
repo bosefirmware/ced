@@ -43,7 +43,7 @@ Bose QuietComfort 35 II = BayWolf</br>
 </ul>
 &#9677; 4.1.3 : <a href="https://community.bose.com/t5/Headphones-Archive/QC35II-Firmware-Release-v-3-1-8-Release-notes/td-p/139145">Aug 06, 2018</a></br>
 <ul>
-  <li>Newly purchased QC35II's may come with version 4.1.3 pre-installed on their headset.  This version was created to support the factory and has no end user facing changes.  Our goal is to align the firmware version numbers again in the current months.</li>
+  <li>This version was created to support the factory and has no end user facing changes.  Our goal is to align the firmware version numbers again in the current months.</li>
 </ul>
 &#9677; 4.3.6 : <a href="https://community.bose.com/t5/Headphones-Archive/QC35-II-Firmware-Update-to-Enable-AR/m-p/191712">Mar 06, 2019</a></br>
 <ul>
