@@ -11,7 +11,7 @@ ced
 <a href="https://github.com/bosefirmware/ced/blob/master/wolfcastle/README.md">Bose QuietComfort 35 = Wolfcastle</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/baywolf/README.md">Bose QuietComfort 35 II = BayWolf</a><br>
 <a href="https://github.com/bosefirmware/ced/blob/master/powder/README.md">Bose QuietControl 30 = Powder</a><br>
-Bose SoundLink Color = Champ<br>
+<a href="https://github.com/bosefirmware/ced/blob/master/champ/README.md">Bose SoundLink Color = Champ</a><br>
 Bose SoundLink Color II = Foreman<br>
 Bose SoundLink Micro = Minnow<br>
 Bose SoundLink Mini Special Edition = M3<br>
