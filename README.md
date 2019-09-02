@@ -2,14 +2,14 @@
 
 ced
 
-Bose AE2 SoundLink = Isaac<br>
+<a href="https://github.com/bosefirmware/ced/blob/master/isaac/README.md">Bose AE2 SoundLink = Isaac</a><br>
 Bose Frames = Celine<br>
 Bose Frames = Celine2<br>
 Bose Noise Cancelling Headphones 700 = Goodyear<br>
 Bose OE SoundLink = Moonraker<br>
 Bose On-Ear Wireless = Pascal<br>
-<a href="https://github.com/bosefirmware/ced/raw/master/wolfcastle/README.md">Bose QuietComfort 35 = Wolfcastle</a><br>
-<a href="https://github.com/bosefirmware/ced/raw/master/baywolf/README.md">Bose QuietComfort 35 II = BayWolf</a><br>
+<a href="https://github.com/bosefirmware/ced/blob/master/wolfcastle/README.md">Bose QuietComfort 35 = Wolfcastle</a><br>
+<a href="https://github.com/bosefirmware/ced/blob/master/baywolf/README.md">Bose QuietComfort 35 II = BayWolf</a><br>
 Bose QuietControl 30 = Powder<br>
 Bose SoundLink Color = Champ<br>
 Bose SoundLink Color II = Foreman<br>
