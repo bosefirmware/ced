@@ -4,7 +4,7 @@ Bose QuietComfort 35 = Wolfcastle</br>
 &#9677; 1.0.4 : ?</br>
 &#9677; 1.0.5 : ?</br>
 &#9677; 1.0.6 : ?</br>
-&#9677; 1.2.9 : <a href="https://community.bose.com/t5/Headphones-Archive/Bose-Connect-App-3-1-0-Update-Available/m-p/37329">Jan 18, 2017</a> <a href="https://www.whathifi.com/news/users-complain-poor-sound-quality-after-bose-headphones-firmware-update">❌</a><a href="https://www.cnet.com/news/bose-investigates-mysterious-quietcomfort-35-firmware-issue/">❌</a><a href="https://www.techradar.com/news/bose-qc35-noise-cancelling-was-gimped-by-recent-software-update-claim-owners">❌</a><a href="https://www.cnet.com/news/bose-investigates-mysterious-quietcomfort-35-firmware-issue/">❌</a><a href="https://medium.com/@Xander51/the-bose-quietcomfort-35-firmware-conspiracy-hole-a5f46ec050cf">❌</a></br>
+&#9677; 1.2.9 : <a href="https://community.bose.com/t5/Headphones-Archive/Bose-Connect-App-3-1-0-Update-Available/m-p/37329">Jan 18, 2017</a> (❌ Possible Issues <a href="https://www.whathifi.com/news/users-complain-poor-sound-quality-after-bose-headphones-firmware-update">1</a>, <a href="https://www.cnet.com/news/bose-investigates-mysterious-quietcomfort-35-firmware-issue/">2</a>, <a href="https://www.techradar.com/news/bose-qc35-noise-cancelling-was-gimped-by-recent-software-update-claim-owners">3</a>, <a href="https://www.cnet.com/news/bose-investigates-mysterious-quietcomfort-35-firmware-issue/">4</a>, <a href="https://medium.com/@Xander51/the-bose-quietcomfort-35-firmware-conspiracy-hole-a5f46ec050cf">5</a>)</br>
 <ul>
   <li>New Feature: “Music Sharing”. This allows customers to connect two wireless headphones at the same time and share their favorite movie or music playlist. A Firmware update is needed on all Bose connect app compatible headsets in order to enable this feature.</li>
 </ul>
@@ -60,7 +60,7 @@ Bose QuietComfort 35 = Wolfcastle</br>
   <li>Improvement to the connection/disconnection and low battery tone volumes</li>
   <li>Bug fixes and improvements</li>
 </ul>
-&#9677; 3.0.3 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/QC35-I-Firmware-Update-June-12th-2019/m-p/212297">Jun 12, 2019</a> <a href="https://www.techradar.com/news/bose-qc35-noise-cancelling-was-gimped-by-recent-software-update-claim-owners">❌</a></br>
+&#9677; 3.0.3 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/QC35-I-Firmware-Update-June-12th-2019/m-p/212297">Jun 12, 2019</a> (❌ Possible Issues <a href="https://www.techradar.com/news/bose-qc35-noise-cancelling-was-gimped-by-recent-software-update-claim-owners">1</a>)</br>
 <ul>
   <li>Bug fixes and improvements </li>
 </ul>
