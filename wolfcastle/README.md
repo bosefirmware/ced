@@ -48,10 +48,7 @@ Bose QuietComfort 35 = Wolfcastle</br>
 </ul>
 &#9677; 1.5.1 : <a href="https://community.bose.com/t5/Headphones-Archive/Bluetooth-Headphones-Firmware-Release-March-2018/m-p/115745">Mar 14, 2018</a></br>
 <ul>
-  <li>Resolves an issue where the charging LEDs didn’t behave correctly post firmware version 2.2.1</li>
-  <li>Resolves an issue where the power down tones could be heard at random times</li>
-  <li>Improves pairing with the Bose Connect app</li>
-  <li>Resolves an issue where the headset could ignore the auto-off timer in the connect app</li>
+  <li>Bug fixes and improvements to the music sharing experience</li>
 </ul>
 &#9677; 2.5.3 : <a href="https://community.bose.com/t5/Headphones-Archive/Updated-10-31-New-Firmware-Update-for-Bluetooth-Headphones/m-p/147985">Sep 27, 2018</a></br>
 <ul>
