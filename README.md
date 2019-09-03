@@ -72,3 +72,5 @@ Step 2: Update via Advanced method.</br>
   <li>Wait for the update process to complete</li>
   <li>Enjoy your OLDER FIRMWARE! Cheers!</li>
 </ol>
+
+<a href="https://community.bose.com/t5/Portable-Archive/Upcoming-Changes-to-the-Bluetooth-Updater-Website/m-p/147819">Bose's statement on why they no longer allow software downgrades</a>
