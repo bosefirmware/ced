@@ -21,7 +21,11 @@ Bose SoundLink Revolve+ = Harvey <a href="https://github.com/bosefirmware/ced/bl
 Bose SoundSport Free = Levi <a href="https://github.com/bosefirmware/ced/blob/master/levi/README.md">(Firmware Info)</a><br>
 Bose SoundSport Pulse = Flurry <a href="https://github.com/bosefirmware/ced/blob/master/flurry/README.md">(Firmware Info)</a><br>
 Bose SoundSport Wireless = Ice <a href="https://github.com/bosefirmware/ced/blob/master/ice/README.md">(Firmware Info)</a><br>
-Bose SoundWear Companion speaker = Kleos <a href="https://github.com/bosefirmware/ced/blob/master/kleos/README.md">(Firmware Info)</a><br>
+Bose SoundWear Companion speaker = Kleos <a href="https://github.com/bosefirmware/ced/blob/master/kleos/README.md">(Firmware Info)</a><br><br><br>
+<a href="https://github.com/bosefirmware/eb">eb</a></br>
+<a href="https://github.com/bosefirmware/stetson">stetson</a></br>
+<a href="https://github.com/bosefirmware/bosebuild">bosebuild</a></br>
+<a href="https://github.com/bosefirmware/pro">pro</a></br>
 </br></br>
 The instructions provided below were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
 </br></br>
