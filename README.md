@@ -29,11 +29,24 @@ Bose SoundWear Companion speaker = Kleos <a href="https://github.com/bosefirmwar
 </br></br>
 The instructions provided below were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
 </br></br>
-<b>BOSE DOWNGRADE PROCESS:</b> (windows only)
+<b>BOSE DOWNGRADE PROCESS:</b> 
 <ol>
-  <li>Download the edited BOSEUPDATER.EXE (version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdaterInstaller_6.0.0.4388.exe">6.0.0.4388</a>) <a href="https://github.com/bosefirmware/ced/raw/master/BOSEUPDATER.EXE">here</a></li>
-  <li>Copy and replace the file in "C:\Program Files (x86)\Bose Updater"</li>
   <li>Make sure you close the app before replacing the file. You can close it on the taskbar (right click -> exit)</li>
+  <li>Windows :
+    <ol>
+      <li>Download the edited BOSEUPDATER.EXE (version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdaterInstaller_6.0.0.4388.exe">6.0.0.4388</a>) <a href="https://github.com/bosefirmware/ced/raw/master/BOSEUPDATER.EXE">here</a></li>
+      <li>Copy and replace the file in "C:\Program Files (x86)\Bose Updater"
+    </ol>
+  </li>  
+  <li>macOS :
+    <ol>
+      <li>If you already have the "Bose Updater" app installed (including version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdater_6.0.0.4388.dmg">6.0.0.4388</a>). Please Delete.</li>
+      <li>Download the edited <a href="https://github.com/bosefirmware/ced/raw/master/Bose%20Updater.zip">"Bose Updater" app here</a></li>
+      <li>Move "Bose Updater" to the "Applications" Folder</li>
+      <li>Open up Terminal (located in "Applications/Utilities")</li>
+      <li>In terminal type in : xattr -cr /Applications/"Bose Updater.app"</li>
+    </ol>
+  </li>  
   <li>Plug your headset or speaker and go to https://btu.bose.com</li>
   <li>When prompted launch the app.</li>
   <li>When you see this screen (<a href="https://imgur.com/a/xGijdYC">Screenshot 1</a>) press the following key combination: 'a' 'd' 'v' 'up arrow' 'down arrow' and you will see the following screen (<a href="https://imgur.com/a/yTLalsc">Screenshot 2</a>)</li>
@@ -47,8 +60,8 @@ The instructions provided below were modified from instructions <a href="https:/
 Information:</br>
 Bose uses the "Bose Update" software with conjunction to the website https://btu.bose.com</br>
 </br>
-Step 1: WINDOWS - Change the initial lookup link from the "Bose Update" app.</br>
-These instructions are for BOSEUPDATER.EXE found on Windows OS.</br>
+Step 1: WINDOWS - These instructions are for BOSEUPDATER.EXE found on Windows OS.</br>
+Change the initial lookup link from the "Bose Update" app.</br>
 <ol>
   <li>The Bose update app location is in "C:\Program Files (x86)\Bose Updater"</li>
   <li>Make an original backup of the file "BOSEUPDATER.EXE" and rename it to something like "BOSEUPDATER.EXE.backup"</li>
@@ -63,8 +76,9 @@ These instructions are for BOSEUPDATER.EXE found on Windows OS.</br>
 </ol>
 
 </br>
-Step 1: macOS - Change the initial lookup link from the "Bose Update" app.</br>
-These instructions are for BOSE UPDATER found on macOS.</br>
+Step 1: macOS - These instructions are for BOSE UPDATER found on macOS.</br>
+Change the initial lookup link from the "Bose Update" app.</br>
+</br>
 <ol>
   <li>The Bose update app location is in "Applications\Bose Updater"</li>
   <li>Right click and select "Show Package Contents"</li>
@@ -76,7 +90,7 @@ These instructions are for BOSE UPDATER found on macOS.</br>
   <li>You will see https://worldwide.bose.com/connected_device as this is the offical URL (notice it is 43 characters long)</li>
   <li>Now in "Replace" enter the URL to https://cutt.ly/git-hub-bose-firmware-files (the new URL is also 43 characters long). This is because the URL must be exactly the same number of characters as the previous one. This will not change the size of the app.</li>
   <li>Save the file</li>
-  <li>Open up Terminal</li>
+  <li>Open up Terminal (located in "Applications/Utilities")</li>
   <li>In terminal type in : xattr -cr /Applications/"Bose Updater.app"</li>
   <li>Run the app to see if it launches correctly. (It will show the icon on the bottom right on your taskbar) and then exit the app (right click and Select Exit)</li>
 </ol>
