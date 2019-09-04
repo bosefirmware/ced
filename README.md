@@ -90,7 +90,7 @@ Change the initial lookup link from the "Bose Update" app.</br>
   <li>Download and install a hex editor. I used https://apps.apple.com/us/app/ihex-hex-editor/id909566003</li>
   <li>Open "Bose Updater" with the hex editor.
     <ol>
-     <li>Go to "Edit -> Find -> Find..." and select Text (do not put anything in the "Replace" field at the moment). Use "Find" to search for the "https://worldwide.bose.com/connected_device" (<a href="https://imgur.com/a/tJpp6k6">Screenshot 3</a>) (<a href="https://imgur.com/a/KWJ7shb">Screenshot 4</a>) </li>
+     <li>Go to "Edit -> Find -> Find..." and select Text (do not put anything in the "Replace" field at the moment). Use "Find" to search for https://worldwide.bose.com/connected_device (<a href="https://imgur.com/a/tJpp6k6">Screenshot 3</a>) (<a href="https://imgur.com/a/KWJ7shb">Screenshot 4</a>) </li>
       <li>You will see https://worldwide.bose.com/connected_device as this is the offical URL (notice it is 43 characters long)</li>
       <li>Now in "Replace" enter the URL to https://cutt.ly/git-hub-bose-firmware-files (the new URL is also 43 characters long). This is because the URL must be exactly the same number of characters as the previous one. This will not change the size of the app.</li>
       <li>Select "Replace"</li>
