@@ -40,8 +40,8 @@ The instructions provided below were modified from instructions <a href="https:/
   </li>  
   <li><b>macOS</b> :
     <ol>
-      <li>If you already have the "Bose Updater" app installed (including version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdater_6.0.0.4388.dmg">6.0.0.4388</a>). Please Delete.</li>
-      <li>Download the edited <a href="https://github.com/bosefirmware/ced/raw/master/Bose%20Updater.zip">"Bose Updater" app here</a></li>
+      <li>If you already have the "Bose Updater" app installed. Please Delete.</li>
+      <li>Download the edited "Bose Updater" app (version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdater_6.0.0.4388.dmg">6.0.0.4388</a>) <a href="https://github.com/bosefirmware/ced/raw/master/Bose%20Updater.zip">here</a></li>
       <li>Move "Bose Updater" to the "Applications" Folder</li>
       <li>Open up Terminal (located in "Applications/Utilities")</li>
       <li>In terminal type in : xattr -cr /Applications/"Bose Updater.app"</li>
