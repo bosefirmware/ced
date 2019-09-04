@@ -67,11 +67,14 @@ Change the initial lookup link from the "Bose Update" app.</br>
   <li>Make an original backup of the file "BOSEUPDATER.EXE" and rename it to something like "BOSEUPDATER.EXE.backup"</li>
   <li>Download and install a hex editor. I used https://mh-nexus.de/en/hxd/</li>
   <li>Copy the BOSEUPDATER.EXE file to your desktop.</li>
-  <li>Open the file you copied to your desktop with the hex editor.</li>
-  <li>Go to Search -> Find and in the tab "Search-string" search for the word "connected_device" (<a href="https://imgur.com/a/tJpp6k6">Screenshot 3</a>) (<a href="https://imgur.com/a/KWJ7shb">Screenshot 4</a>) </li>
-  <li>You will see https://worldwide.bose.com/connected_device as this is the offical URL (notice it is 43 characters long)</li>
-  <li>Now change the URL to https://cutt.ly/git-hub-bose-firmware-files (the new URL is also 43 characters long). This is because the URL must be exactly the same number of characters as the previous one. This will not change the size of the app.</li>
-  <li>Save the file and copy and replace it back to "C:\Program Files (x86)\Bose Updater"</li>
+  <li>Open the file you copied to your desktop with the hex editor.
+    <ol>
+      <li>Go to Search -> Find and in the tab "Search-string" search for the word "connected_device" (<a href="https://imgur.com/a/tJpp6k6">Screenshot 3</a>) (<a href="https://imgur.com/a/KWJ7shb">Screenshot 4</a>) </li>
+      <li>You will see https://worldwide.bose.com/connected_device as this is the offical URL (notice it is 43 characters long)</li>
+      <li>Now change the URL to https://cutt.ly/git-hub-bose-firmware-files (the new URL is also 43 characters long). This is because the URL must be exactly the same number of characters as the previous one. This will not change the size of the app.</li>
+      <li>Save the file and copy and replace it back to "C:\Program Files (x86)\Bose Updater"</li>
+    <ol>
+  </li>
   <li>Run the app to see if it launches correctly. (It will show the icon on the bottom right on your taskbar) and then exit the app (right click and Select Exit)</li>
 </ol>
 
