@@ -85,7 +85,7 @@ Change the initial lookup link from the "Bose Update" app.</br>
 <ol>
   <li>The Bose update app location is in "Applications\Bose Updater"</li>
   <li>Right click and select "Show Package Contents"</li>
-  <li>Go to Contents\MacOS</li>
+  <li>Go to "Contents\MacOS"</li>
   <li>Make an original backup of the file "Bose Updater" by right clicking on the file and selecting "Duplicate"</li>
   <li>Download and install a hex editor. I used https://apps.apple.com/us/app/ihex-hex-editor/id909566003</li>
   <li>Open "Bose Updater" with the hex editor.
