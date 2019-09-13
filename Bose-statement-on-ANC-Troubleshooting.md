@@ -17,7 +17,7 @@
 <p>Noise reduction in the QC35 headphones is achieved by utilizing both active and passive noise reduction technologies. They use a proprietary electronics approach to active noise reduction, placing microphones both inside and outside of the earcups. The electronics system senses the sound in an environment and then measures, compares and reacts—instant by instant—to produce an opposing cancellation signal. Through a combination of advanced active electronics and passive attenuation, QuietComfort 35 headphones reduce noise across the full range of human hearing. The passive noise reduction is achieved by the combination of the acoustic design and materials chosen for the earcups and cushions.</p>
 <p>Believe it or not, the positioning and condition of the headset's ear cushions are<u>&nbsp;a&nbsp;critical factor</u>&nbsp;in the performance of ANC. Obviously ensuring that the headset is positioned properly on the user's head (with the power switch on the right) is important, but the seal around the ears is incredibly important as well.&nbsp;</p>
 <p>A common cause of non-performing ANC relates to the integrity of the ear cushion's contact to the headset itself and its condition. We've recently come across a QC35 where the scrim of the ear cushion became dislodged slightly from the teeth that hold it in place. The headset had a significant drop in their ANC performance. When we investigated, pulled back the ear cushions a bit, this is what we found:</p>
-<p><span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 225px;"><span class="lia-message-image-wrapper"><img src="https://github.com/bosefirmware/ced/raw/master/earcushion.jpg" alt="earcushion.jpg" title="earcushion.jpg" li-image-url="https://github.com/bosefirmware/ced/raw/master/earcushion.jpg" li-image-display-id="&#39;1973i79F3C71FC1A6D20F&#39;" li-message-uid="&#39;118453&#39;" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="false" li-use-hover-links="true" li-compiled="true"></p>
+<p><span class="lia-inline-image-display-wrapper lia-image-align-inline" style="width: 225px;"><span class="lia-message-image-wrapper"><img src="https://github.com/bosefirmware/ced/raw/master/images/earcushion.jpg" alt="earcushion.jpg" title="earcushion.jpg"></p>
 <p>Once we removed and reseated the ear cushion properly, it was as good as new.&nbsp; Here's a great video we found that gives a great step-by-step instruction of the process:</p>
 <p><u><span><a href="https://www.youtube.com/watch?v=E8HfGG91IbE" target="_blank" rel="nofollow noopener noreferrer">https://www.youtube.com/watch?v=E8HfGG91IbE</a></span></u></p>
 <p><span>Other instructions can be found at our own <a href="https://www.bose.com/en_us/support/article/ear-cushion-replacement-qc25.html" target="_self" rel="nofollow noopener noreferrer">Support Page</a>.&nbsp;</span></p>
@@ -42,7 +42,7 @@ Ear cushion replacement
 <div class="adaptiveImageComponent image parbase">
 <div class=" bose-adaptiveImage   ">
 <div class="bose-adaptiveImage__container">
-<img src="https://github.com/bosefirmware/ced/raw/master/qc2_15_cushions_1.jpeg" src="./Ear cushion replacement_files/cq5dam.web.320.320.jpeg">
+<img src="https://github.com/bosefirmware/ced/raw/master/images/qc2_15_cushions_1.jpeg" src="./Ear cushion replacement_files/cq5dam.web.320.320.jpeg">
 </div>
 </div>
 </div>
@@ -51,7 +51,7 @@ Ear cushion replacement
 <div class="adaptiveImageComponent image parbase">
 <div class=" bose-adaptiveImage   ">
 <div class="bose-adaptiveImage__container">
-<img src="https://github.com/bosefirmware/ced/raw/master/qc2_15_cushions_2.jpeg" src="./Ear cushion replacement_files/cq5dam.web.320.320(1).jpeg">
+<img src="https://github.com/bosefirmware/ced/raw/master/images/qc2_15_cushions_2.jpeg" src="./Ear cushion replacement_files/cq5dam.web.320.320(1).jpeg">
 </div>
 </div>
 </div>
