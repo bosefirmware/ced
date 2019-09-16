@@ -35,7 +35,7 @@ Bose SoundSport Wireless = Ice</br>
   <li>Bug fixes and improvements</li>
   <li>Improves multi-point experience with some mobile devices</li>
 </ul>
-&#9677; 2.7.7 : <a href="https://community.bose.com/t5/Headphones-Archive/New-firmware-available-for-the-SoundSport-Wireless-headphones/m-p/153667">Oct 31, 2018</a>
+&#9677; 2.7.7 : <a href="https://community.bose.com/t5/Headphones-Archive/New-firmware-available-for-the-SoundSport-Wireless-headphones/m-p/153667">Oct 31, 2018</a> (ℹ️ a href="https://github.com/bosefirmware/ced/raw/master/ice/Tile-smart-location.md">info on Tile</a>)
 <ul>
   <li>Tile integration capability via firmware that will enable Tile services if set up by user</li>
   <li>Bug fixes and minor improvements</li>
