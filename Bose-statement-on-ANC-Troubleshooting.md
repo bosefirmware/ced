@@ -1,3 +1,4 @@
+<a href="https://www.bose.com/en_us/support/article/ear-cushion-replacement-qc25.html">https://www.bose.com/en_us/support/article/ear-cushion-replacement-qc25.html</a>
 <h2><div>QC35 ANC Troubleshooting and Informational Guide</div></h2>
 <p>Hello everyone!</p>
 <p>We have split this post into two segments beginning with troubleshooting steps followed by a section on ANC.&nbsp;&nbsp;</p>
@@ -69,4 +70,3 @@ Ear cushion replacement
 <li>Be sure it attaches smoothly and uniformly onto the entire earcup and snap it gently into place</li>
 </ol>
 </main>
-<a href="https://www.bose.com/en_us/support/article/ear-cushion-replacement-qc25.html">https://www.bose.com/en_us/support/article/ear-cushion-replacement-qc25.html</a>
