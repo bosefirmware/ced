@@ -1,3 +1,4 @@
+<a href="https://community.bose.com/t5/Portable-Archive/Upcoming-Changes-to-the-Bluetooth-Updater-Website/m-p/147819">https://community.bose.com/t5/Portable-Archive/Upcoming-Changes-to-the-Bluetooth-Updater-Website/m-p/147819</a>
 # Upcoming Changes to the Bluetooth Updater Website
 09-26-2018<br>
 <br>
@@ -12,5 +13,3 @@ As always, the latest firmware versions will have all of the relevant/latest bug
 Thank you.<br>
 <br>
 The Bose Community Support Team<br>
-
-https://community.bose.com/t5/Portable-Archive/Upcoming-Changes-to-the-Bluetooth-Updater-Website/m-p/147819
