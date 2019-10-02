@@ -51,7 +51,11 @@ The instructions provided below were modified from instructions <a href="https:/
   <li>When prompted launch the app.</li>
   <li>When you see this screen (<a href="https://imgur.com/a/xGijdYC">Screenshot 1</a>) press the following key combination: 'a' 'd' 'v' 'up arrow' 'down arrow' and you will see the following screen (<a href="https://imgur.com/a/yTLalsc">Screenshot 2</a>)</li>
   <li>Now you can select the firmware and click on Update.</li>
-  <li>Wait for the update process to complete</li>
+  <li>Wait for the update process to complete
+    <ol>
+      <li><b>WARNING</b> : If you have <b>QC35 II</b> headphones that end in <b>AZ</b>. <b>Do NOT</b> downgrade below 4.3.6. Doing so can <b>BRICK YOUR QC35 II!!!</b></li>
+    </ol>
+  </li>
   <li>Enjoy your OLDER FIRMWARE! Cheers!</li>
 </ol>
 </br></br>
@@ -108,7 +112,11 @@ Step 2: Update via Advanced method.</br>
   <li>Plug your headset or speaker and go to https://btu.bose.com</li>
   <li>When prompted launch the app.</li>
   <li>When you see this screen (<a href="https://imgur.com/a/xGijdYC">Screenshot 1</a>) press the following key combination: 'a' 'd' 'v' 'up arrow' 'down arrow' and you will see the following screen (<a href="https://imgur.com/a/yTLalsc">Screenshot 2</a>)</li>
-  <li>Now you can select the firmware and click on Update.</li>
+  <li>Now you can select the firmware and click on Update.
+    <ol>
+      <li><b>WARNING</b> : If you have <b>QC35 II</b> headphones that end in <b>AZ</b>. <b>Do NOT</b> downgrade below 4.3.6. Doing so can <b>BRICK YOUR QC35 II!!!</b></li>
+    </ol>
+  </li>
   <li>Wait for the update process to complete</li>
   <li>Enjoy your OLDER FIRMWARE! Cheers!</li>
 </ol>
