@@ -35,7 +35,8 @@ The instructions provided below were modified from instructions <a href="https:/
   <li><b>Windows</b> :
     <ol>
       <li>Download the edited BOSEUPDATER.EXE (version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdaterInstaller_6.0.0.4388.exe">6.0.0.4388</a>) <a href="https://github.com/bosefirmware/ced/raw/master/BOSEUPDATER.EXE">here</a></li>
-      <li>Copy and replace the file in "C:\Program Files (x86)\Bose Updater"
+      <li>Copy and replace the file in "C:\Program Files (x86)\Bose Updater"</li>
+      <li>Open the file. If you get a warning that says "Windows protected your PC". Select "More info" and click "Run anyway"</li>
     </ol>
   </li>  
   <li><b>macOS</b> :
@@ -76,7 +77,8 @@ Change the initial lookup link from the "Bose Update" app.</br>
       <li>Go to Search -> Find and in the tab "Search-string" search for the word "connected_device" (<a href="https://imgur.com/a/tJpp6k6">Screenshot 3</a>) (<a href="https://imgur.com/a/KWJ7shb">Screenshot 4</a>) </li>
       <li>You will see https://worldwide.bose.com/connected_device as this is the offical URL (notice it is 43 characters long)</li>
       <li>Now change the URL to https://cutt.ly/git-hub-bose-firmware-files (the new URL is also 43 characters long). This is because the URL must be exactly the same number of characters as the previous one. This will not change the size of the app.</li>
-      <li>Save the file</li>
+      <li>Save the file</li></li>
+      <li>Open the file. If you get a warning that says "Windows protected your PC". Select "More info" and click "Run anyway"</li>
     </ol>
   </li>
   <li>Copy and replace it back to "C:\Program Files (x86)\Bose Updater"</li>
