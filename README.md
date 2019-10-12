@@ -54,7 +54,7 @@ The instructions provided below were modified from instructions <a href="https:/
   <li>Now you can select the firmware and click on Update.</li>
   <li>Wait for the update process to complete
     <ol>
-      <li><b>WARNING</b> : If you have <b>QC35 II</b> headphones with a serial number that ends in <b>AZ</b>. <b>Do NOT</b> downgrade below 4.3.6. Doing so can <b>BRICK YOUR QC35 II!!!</b></li>
+      <li><b>WARNING</b> : If you have <b>QC35 II</b> headphones with a serial number that ends in <b>AZ</b>. <b>Do NOT</b> downgrade below 2.1.3. Doing so can <b>BRICK YOUR QC35 II!!!</b></li>
     </ol>
   </li>
   <li>Enjoy your OLDER FIRMWARE! Cheers!</li>
@@ -116,7 +116,7 @@ Step 2: Update via Advanced method.</br>
   <li>When you see this screen (<a href="https://imgur.com/a/xGijdYC">Screenshot 1</a>) press the following key combination: 'a' 'd' 'v' 'up arrow' 'down arrow' and you will see the following screen (<a href="https://imgur.com/a/yTLalsc">Screenshot 2</a>)</li>
   <li>Now you can select the firmware and click on Update.
     <ol>
-      <li><b>WARNING</b> : If you have <b>QC35 II</b> headphones with a serial number that ends in <b>AZ</b>. <b>Do NOT</b> downgrade below 4.3.6. Doing so can <b>BRICK YOUR QC35 II!!!</b></li>
+      <li><b>WARNING</b> : If you have <b>QC35 II</b> headphones with a serial number that ends in <b>AZ</b>. <b>Do NOT</b> downgrade below 2.1.3. Doing so can <b>BRICK YOUR QC35 II!!!</b></li>
     </ol>
   </li>
   <li>Wait for the update process to complete</li>
