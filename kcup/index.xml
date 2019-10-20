@@ -5,7 +5,7 @@
           <IMAGE SUBID="0" LENGTH="1832166" CRC="0XFFFFFFFF" FILENAME="KCup_1.1.3_stack_plus_app.dfu" NOFORCE="1" REVISION="1.1.3.3366"/>
           <IMAGE SUBID="1" LENGTH="11353248" CRC="0X56C31396" FILENAME="KCup_1.1.3_ext_signed.xuv" NOFORCE="0" REVISION="1.1.3.3366"/>
       </RELEASE>
-      <RELEASE REVISION="1.1.5.1234" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/ced/master/kcup/" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl">
+      <RELEASE REVISION="1.1.4.3558" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/ced/master/kcup/" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl">
           <IMAGE SUBID="0" LENGTH="1832350" CRC="0XFFFFFFFF" FILENAME="KCup_1.1.4_stack_plus_app.dfu" NOFORCE="1" REVISION="1.1.4.3558"/>
           <IMAGE SUBID="1" LENGTH="11353248" CRC="0XCE7E21A1" FILENAME="KCup_1.1.4_ext_signed.xuv" NOFORCE="0" REVISION="1.1.4.3558"/>
       </RELEASE>
