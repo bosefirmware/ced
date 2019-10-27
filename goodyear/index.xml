@@ -7,6 +7,9 @@
       <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.1.4-1144+be3bf4b" URLPATH="/bosefirmware/ced/master/goodyear/">
         <IMAGE CRC="0X0092049F" FILENAME="goodyear_encrypted_prod_1.1.4-be3bf4b.bin" LENGTH="6662964" NOFORCE="1" REVISION="1.1.4-1144+be3bf4b" SUBID="0" />
       </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.2.11-1894+55bc538" URLPATH="/bosefirmware/ced/master/goodyear/">
+        <IMAGE CRC="0XE0DFD3C1" FILENAME="goodyear_encrypted_prod_1.2.11-55bc538.bin" LENGTH="6689300" NOFORCE="1" REVISION="1.2.11-1894+55bc538" SUBID="0"/>
+      </RELEASE>
     </HARDWARE>
   </DEVICE>
 </INDEX>
