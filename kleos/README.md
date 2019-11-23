@@ -11,3 +11,8 @@ Bose SoundWear Companion speaker = Kleos<br>
   <li>Improvements made to battery power management</li>
   <li>Improvements made to ringtone volume control</li>
 </ul>
+&#9677; 3.0.3 : <a href="https://community.bose.com/t5/SoundWear-Companion-Speaker/SoundWear-Companion-Firmware-Update-3-0-3-November-19th/m-p/252481">Nov 19, 2019</a></br>
+<ul>
+  <li>Pairing with Windows 10 is easier than ever before</li>
+  <li>Fixed bugs and did some general cleaning up under the hood</li>
+</ul>
