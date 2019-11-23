@@ -9,6 +9,10 @@
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Celine_4.0.3_stack_plus_app.dfu" LENGTH="1839748" NOFORCE="1" REVISION="4.0.3-98+91a9d71" SUBID="0" />
         <IMAGE CRC="0X8FD85A78" FILENAME="Celine_4.0.3_ext_signed.xuv" LENGTH="19539680" NOFORCE="0" REVISION="4.0.3-98+91a9d71" SUBID="1" TARGET="1" />
       </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us" REVISION="4.1.4-249+3be79d2" URLPATH="/bosefirmware/ced/master/celine2/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Celine_4.1.4_stack_plus_app.dfu" LENGTH="1839844" NOFORCE="1" REVISION="4.1.4-249+3be79d2" SUBID="0" />
+        <IMAGE CRC="0X6059FEE6" FILENAME="Celine_4.1.4_ext_signed.xuv" LENGTH="19539680" NOFORCE="0" REVISION="4.1.4-249+3be79d2" SUBID="1" TARGET="1" />
+      </RELEASE>
     </HARDWARE>
   </DEVICE>
 </INDEX>
