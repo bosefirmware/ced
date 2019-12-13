@@ -29,3 +29,10 @@ Bose SoundSport Free = Levi</br>
 <ul>
   <li>Fixes an issue that caused the product to shut down in extreme cold or hot temperatures</li>
 </ul>
+&#9677; 2.8.0 : <a href="https://community.bose.com/t5/In-Ear-Headphones/SoundSport-Free-Firmware-Update-2-8-0-December-4-2019/m-p/256455">Dec 04, 2019</a></br>
+<ul>
+  <li>Pairing with Windows 10 is easier than ever before.</li>
+  <li>We made it easier to connect to the Samsung Galaxy Watch</li>
+  <li>Improved voice prompt performance.</li>
+  <li>Fixed bugs and did some general cleaning up under the hood.</li>
+</ul>
