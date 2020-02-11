@@ -34,7 +34,7 @@ The instructions provided below were modified from instructions <a href="https:/
   <li>Make sure you close the app before replacing the file. You can close it on the taskbar (right click -> exit)</li>
   <li><b>Windows</b> :
     <ol>
-      <li>Download the edited BOSEUPDATER.EXE (version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdaterInstaller_6.0.0.4388.exe">6.0.0.4388</a>) <a href="https://github.com/bosefirmware/ced/raw/master/BOSEUPDATER.EXE">here</a></li>
+      <li>Download the edited BOSEUPDATER.EXE <a href="https://github.com/bosefirmware/ced/raw/master/BOSEUPDATER.EXE">here</a> (Link to <b>unedited</b> full install of version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdaterInstaller_6.0.0.4388.exe">6.0.0.4388</a>)</li>
       <li>Copy and replace the file in "C:\Program Files (x86)\Bose Updater"</li>
       <li>Open the file. If you get a warning that says "Windows protected your PC". Select "More info" and click "Run anyway"</li>
     </ol>
@@ -42,7 +42,7 @@ The instructions provided below were modified from instructions <a href="https:/
   <li><b>macOS</b> :
     <ol>
       <li>If you already have the "Bose Updater" app installed. Please Delete.</li>
-      <li>Download the edited "Bose Updater" app (version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdater_6.0.0.4388.dmg">6.0.0.4388</a>) <a href="https://github.com/bosefirmware/ced/raw/master/Bose%20Updater.zip">here</a></li>
+      <li>Download the edited "Bose Updater" app <a href="https://github.com/bosefirmware/ced/raw/master/Bose%20Updater.zip">here</a> (Link to <b>unedited</b> full install of version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdater_6.0.0.4388.dmg">6.0.0.4388</a>)</li>
       <li>Move "Bose Updater" to the "Applications" Folder</li>
       <li>Open up Terminal (located in "Applications/Utilities")</li>
       <li>In terminal type in : xattr -cr /Applications/"Bose Updater.app"</li>
