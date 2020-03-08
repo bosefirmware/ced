@@ -1,34 +1,5 @@
 # Bose Firmware
 
-ced
-
-Bose AE2 SoundLink = Isaac <a href="https://github.com/bosefirmware/ced/blob/master/isaac/README.md">(Firmware Info)</a><br>
-Bose Frames = Celine <a href="https://github.com/bosefirmware/ced/blob/master/celine/README.md">(Firmware Info)</a><br>
-Bose Frames = Celine2 <a href="https://github.com/bosefirmware/ced/blob/master/celine2/README.md">(Firmware Info)</a><br>
-Bose Noise Cancelling Headphones 700 = Goodyear <a href="https://github.com/bosefirmware/ced/blob/master/goodyear/README.md">(Firmware Info)</a><br>
-Bose OE SoundLink = Moonraker <a href="https://github.com/bosefirmware/ced/blob/master/moonraker/README.md">(Firmware Info)</a><br>
-Bose On-Ear Wireless = Pascal <a href="https://github.com/bosefirmware/ced/blob/master/pascal/README.md">(Firmware Info)</a><br>
-Bose QuietComfort 35 = Wolfcastle <a href="https://github.com/bosefirmware/ced/blob/master/wolfcastle/README.md">(Firmware Info)</a><br>
-Bose QuietComfort 35 II = BayWolf <a href="https://github.com/bosefirmware/ced/blob/master/baywolf/README.md">(Firmware Info)</a><br>
-Bose QuietControl 30 = Powder <a href="https://github.com/bosefirmware/ced/blob/master/powder/README.md">(Firmware Info)</a><br>
-Bose SoundLink Color = Champ <a href="https://github.com/bosefirmware/ced/blob/master/champ/README.md">(Firmware Info)</a><br>
-Bose SoundLink Color II = Foreman <a href="https://github.com/bosefirmware/ced/blob/master/foreman/README.md">(Firmware Info)</a><br>
-Bose SoundLink Micro = Minnow <a href="https://github.com/bosefirmware/ced/blob/master/minnow/README.md">(Firmware Info)</a><br>
-Bose SoundLink Mini Special Edition = M3 <a href="https://github.com/bosefirmware/ced/blob/master/m3/README.md">(Firmware Info)</a><br>
-Bose SoundLink Mini II = KCup <a href="https://github.com/bosefirmware/ced/blob/master/kcup/README.md">(Firmware Info)</a><br>
-Bose SoundLink Revolve = Folgers <a href="https://github.com/bosefirmware/ced/blob/master/folgers/README.md">(Firmware Info)</a><br>
-Bose SoundLink Revolve+ = Harvey <a href="https://github.com/bosefirmware/ced/blob/master/harvey/README.md">(Firmware Info)</a><br>
-Bose SoundSport Free = Levi <a href="https://github.com/bosefirmware/ced/blob/master/levi/README.md">(Firmware Info)</a><br>
-Bose SoundSport Pulse = Flurry <a href="https://github.com/bosefirmware/ced/blob/master/flurry/README.md">(Firmware Info)</a><br>
-Bose SoundSport Wireless = Ice <a href="https://github.com/bosefirmware/ced/blob/master/ice/README.md">(Firmware Info)</a><br>
-Bose SoundWear Companion speaker = Kleos <a href="https://github.com/bosefirmware/ced/blob/master/kleos/README.md">(Firmware Info)</a><br><br><br>
-<a href="https://github.com/bosefirmware/eb">eb</a></br>
-<a href="https://github.com/bosefirmware/stetson">stetson</a></br>
-<a href="https://github.com/bosefirmware/bosebuild">bosebuild</a></br>
-<a href="https://github.com/bosefirmware/pro">pro</a></br>
-</br></br>
-The instructions provided below were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
-</br></br>
 <b>BOSE DOWNGRADE PROCESS:</b> 
 <ol>
   <li>Make sure you close the app before replacing the file. You can close it on the taskbar (right click -> exit)</li>
@@ -59,6 +30,35 @@ The instructions provided below were modified from instructions <a href="https:/
   </li>
   <li>Enjoy your OLDER FIRMWARE! Cheers!</li>
 </ol>
+</br></br>
+ced
+
+Bose AE2 SoundLink = Isaac <a href="https://github.com/bosefirmware/ced/blob/master/isaac/README.md">(Firmware Info)</a><br>
+Bose Frames = Celine <a href="https://github.com/bosefirmware/ced/blob/master/celine/README.md">(Firmware Info)</a><br>
+Bose Frames = Celine2 <a href="https://github.com/bosefirmware/ced/blob/master/celine2/README.md">(Firmware Info)</a><br>
+Bose Noise Cancelling Headphones 700 = Goodyear <a href="https://github.com/bosefirmware/ced/blob/master/goodyear/README.md">(Firmware Info)</a><br>
+Bose OE SoundLink = Moonraker <a href="https://github.com/bosefirmware/ced/blob/master/moonraker/README.md">(Firmware Info)</a><br>
+Bose On-Ear Wireless = Pascal <a href="https://github.com/bosefirmware/ced/blob/master/pascal/README.md">(Firmware Info)</a><br>
+Bose QuietComfort 35 = Wolfcastle <a href="https://github.com/bosefirmware/ced/blob/master/wolfcastle/README.md">(Firmware Info)</a><br>
+Bose QuietComfort 35 II = BayWolf <a href="https://github.com/bosefirmware/ced/blob/master/baywolf/README.md">(Firmware Info)</a><br>
+Bose QuietControl 30 = Powder <a href="https://github.com/bosefirmware/ced/blob/master/powder/README.md">(Firmware Info)</a><br>
+Bose SoundLink Color = Champ <a href="https://github.com/bosefirmware/ced/blob/master/champ/README.md">(Firmware Info)</a><br>
+Bose SoundLink Color II = Foreman <a href="https://github.com/bosefirmware/ced/blob/master/foreman/README.md">(Firmware Info)</a><br>
+Bose SoundLink Micro = Minnow <a href="https://github.com/bosefirmware/ced/blob/master/minnow/README.md">(Firmware Info)</a><br>
+Bose SoundLink Mini Special Edition = M3 <a href="https://github.com/bosefirmware/ced/blob/master/m3/README.md">(Firmware Info)</a><br>
+Bose SoundLink Mini II = KCup <a href="https://github.com/bosefirmware/ced/blob/master/kcup/README.md">(Firmware Info)</a><br>
+Bose SoundLink Revolve = Folgers <a href="https://github.com/bosefirmware/ced/blob/master/folgers/README.md">(Firmware Info)</a><br>
+Bose SoundLink Revolve+ = Harvey <a href="https://github.com/bosefirmware/ced/blob/master/harvey/README.md">(Firmware Info)</a><br>
+Bose SoundSport Free = Levi <a href="https://github.com/bosefirmware/ced/blob/master/levi/README.md">(Firmware Info)</a><br>
+Bose SoundSport Pulse = Flurry <a href="https://github.com/bosefirmware/ced/blob/master/flurry/README.md">(Firmware Info)</a><br>
+Bose SoundSport Wireless = Ice <a href="https://github.com/bosefirmware/ced/blob/master/ice/README.md">(Firmware Info)</a><br>
+Bose SoundWear Companion speaker = Kleos <a href="https://github.com/bosefirmware/ced/blob/master/kleos/README.md">(Firmware Info)</a><br><br><br>
+<a href="https://github.com/bosefirmware/eb">eb</a></br>
+<a href="https://github.com/bosefirmware/stetson">stetson</a></br>
+<a href="https://github.com/bosefirmware/bosebuild">bosebuild</a></br>
+<a href="https://github.com/bosefirmware/pro">pro</a></br>
+</br></br>
+The instructions provided below were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
 </br></br>
 <b>ADVANCED DOWNGRADE PROCESS:</b></br>
 </br>
