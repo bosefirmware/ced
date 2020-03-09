@@ -29,8 +29,10 @@
     </ol>
   </li>
   <li>Enjoy your OLDER FIRMWARE! Cheers!</li>
-</ol>
-</br></br>
+</ol></br>
+The instructions provided were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
+
+## Menu
 ced
 
 Bose AE2 SoundLink = Isaac <a href="https://github.com/bosefirmware/ced/blob/master/isaac/README.md">(Firmware Info)</a><br>
@@ -58,9 +60,7 @@ Bose SoundWear Companion speaker = Kleos <a href="https://github.com/bosefirmwar
 <a href="https://github.com/bosefirmware/bosebuild">bosebuild</a></br>
 <a href="https://github.com/bosefirmware/pro">pro</a></br>
 </br></br>
-The instructions provided below were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
-</br></br>
-## <b>ADVANCED DOWNGRADE PROCESS:</b></br>
+## ADVANCED DOWNGRADE PROCESS:</br>
 </br>
 Information:</br>
 Bose uses the "Bose Update" software with conjunction to the website https://btu.bose.com</br>
