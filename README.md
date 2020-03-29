@@ -1,5 +1,7 @@
 # Bose Firmware
 
+<a href="https://community.bose.com/t5/Portable-Archive/Upcoming-Changes-to-the-Bluetooth-Updater-Website/m-p/147819">Bose's statement on why they no longer offer software downgrades</a>
+
 <b>BOSE DOWNGRADE PROCESS:</b> 
 <ol>
   <li>Make sure you close the app before replacing the file. You can close it on the taskbar (right click -> exit)</li>
@@ -121,8 +123,6 @@ Step 2: Update via Advanced method.</br>
   <li>Wait for the update process to complete</li>
   <li>Enjoy your OLDER FIRMWARE! Cheers!</li>
 </ol>
-
-<a href="https://community.bose.com/t5/Portable-Archive/Upcoming-Changes-to-the-Bluetooth-Updater-Website/m-p/147819">Bose's statement on why they no longer allow software downgrades</a>
 
 
 ## ADVANCED DOWNGRADE PROCESS v2:
