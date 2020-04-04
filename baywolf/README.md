@@ -51,7 +51,7 @@ Bose QuietComfort 35 II = BayWolf</br>
   <li>Fixed bugs and did some general cleaning up under the hood. </li>
   <li>Firmware 4.3.6 will require the use of the latest version of Bose Connect app (Version 8.0). </li>
 </ul>
-&#9677; 4.5.2 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/QC35-II-Firmware-update-4-5-2-June-18-2019/m-p/214232">Jun 18, 2019</a> (❌ Possible Issues <a href="https://www.theverge.com/2019/7/16/20696186/bose-qc35ii-headphones-worse-noise-cancellation-problems">1</a>, <a href="https://www.trustedreviews.com/news/bose-qc35-firmware-noise-cancelling-3922813">2</a>, <a href="https://www.androidauthority.com/bose-quietcomfort-35-ii-anc-firmware-1010335/">3</a>, <a href="https://www.techradar.com/news/bose-qc35-noise-cancelling-was-gimped-by-recent-software-update-claim-owners">4</a>)</br>
+&#9677; 4.5.2 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/QC35-II-Firmware-update-4-5-2-June-18-2019/m-p/214232">Jun 18, 2019</a> (Reported Issues <a href="https://www.theverge.com/2019/7/16/20696186/bose-qc35ii-headphones-worse-noise-cancellation-problems">1</a>, <a href="https://www.trustedreviews.com/news/bose-qc35-firmware-noise-cancelling-3922813">2</a>, <a href="https://www.androidauthority.com/bose-quietcomfort-35-ii-anc-firmware-1010335/">3</a>, <a href="https://www.techradar.com/news/bose-qc35-noise-cancelling-was-gimped-by-recent-software-update-claim-owners">4</a>) <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Bose-QC-35-Firmware-4-5-2-Noise-Cancellation-Investigation/td-p/285738">Detailed report by Bose and a 3rd party concluding there are no firmware issues</a></br>
 <ul>
   <li>Improvements to music share</li>
   <li>Bug fixes and improvements</li>
