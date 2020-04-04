@@ -60,7 +60,7 @@ Bose QuietComfort 35 = Wolfcastle</br>
   <li>Improvement to the connection/disconnection and low battery tone volumes</li>
   <li>Bug fixes and improvements</li>
 </ul>
-&#9677; 3.0.3 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/QC35-I-Firmware-Update-June-12th-2019/m-p/212297">Jun 12, 2019</a> (❌ Possible Issues <a href="https://www.techradar.com/news/bose-qc35-noise-cancelling-was-gimped-by-recent-software-update-claim-owners">1</a>)</br>
+&#9677; 3.0.3 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/QC35-I-Firmware-Update-June-12th-2019/m-p/212297">Jun 12, 2019</a> (Reported Issue <a href="https://www.techradar.com/news/bose-qc35-noise-cancelling-was-gimped-by-recent-software-update-claim-owners">1</a>) <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Bose-QC-35-Firmware-4-5-2-Noise-Cancellation-Investigation/td-p/285738">Detailed report by Bose and a 3rd party concluding there are no firmware issues</a></br></br>
 <ul>
   <li>Bug fixes and improvements </li>
 </ul>
