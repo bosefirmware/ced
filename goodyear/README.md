@@ -27,8 +27,8 @@ Bose Noise Cancelling Headphones 700 = Goodyear</br>
 <ul>
   <li>Adjustable Equalizer: Personalize the audio on your NC700 Headphones from the Bose Music App. This includes adjusting bass, mids, and treble. Download the Bose Music app and give this feature a try!</li>
   <li>China only - Access to Tencent’s Xiaowei voice assistant.  With the Xiaowei voice assistant, you can use your voice to accomplish various tasks such as start and control music from QQ Music, change the volume, and ask questions.</li>
-  <ul>
   <li>Bug Fixes and Enhancements:</li>
+  <ul>
     <li>Improved Bluetooth connection reliability</li>
     <li>Better multi point functionality while video conferencing</li>
     <ul>
