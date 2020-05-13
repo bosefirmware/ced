@@ -21,3 +21,27 @@ Bose Noise Cancelling Headphones 700 = Goodyear</br>
   <li>Added German and Japanese Alexa accent recognition for wake-up word, “Alexa”</li>
   <li>Bug fixes and improvements</li>
 </ul>
+
+
+&#9677; 1.4.12 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Noise-Cancelling-700-Firmware-Update-1-4-12-May-12th-2020/m-p/300552">May 12, 2019</a></br>
+Features:
+<ul>
+  <li>Adjustable Equalizer: Personalize the audio on your NC700 Headphones from the Bose Music App. This includes adjusting bass, mids, and treble. Download the Bose Music app and give this feature a try!</li>
+  <li>China only - Access to Tencent’s Xiaowei voice assistant.  With the Xiaowei voice assistant, you can use your voice to accomplish various tasks such as start and control music from QQ Music, change the volume, and ask questions.</li>
+</ul>
+Bug Fixes and Enhancements:
+<ul>
+  <li>Improved Bluetooth connection reliability</li>
+  <li>Better multi point functionality while video conferencing</li>
+  <ul>
+    <li>Fixes a stuttering audio issue when the headset is in multipoint with a Mac or PC</li>
+    <li>Improves the audio experience when using most video conferencing software</li>
+    <li>Fixes an issue where the headsets auto off timer could turn off headset during voice-over IP (VIOP) calls using video conferencing software</li>
+    <li>Fixes an occasional disconnection issues when in Multiple-Point</li>
+  </ul>
+  <li>General Virtual Personal Assistant (VPA) improvements</li>
+  <li>Battery level and other voice prompt fixes.</li>
+  <ul>
+    <li>Fixes multiple issues where the battery level voice prompt may be mis-matched from the Music App or improperly stated when headset is powered on.</li>
+  </ul>
+</ul>
