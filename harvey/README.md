@@ -27,7 +27,7 @@ Bose SoundLink Revolve+ = Harvey<br>
 <ul>
   <li>The user can now power on the puppet (companion) speaker through the Bose Connect App</li>
   <li>A/V sync improvements to lower latency</li>
-  <li>📓 Note : this update enables the bluetooth LE power-on functionality.</li>
+  <li>📓  Note : this update enables the bluetooth LE power-on functionality.</li>
 </ul>
 &#9677; 1.5.0 : <a href="https://community.bose.com/t5/Portable-Archive/New-firmware-release-for-SoundLink-speakers-and-SoundWear/td-p/124184">May 02, 2018</a><br>
 <ul>
