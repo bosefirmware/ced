@@ -25,7 +25,7 @@ Bose Noise Cancelling Headphones 700 = Goodyear</br>
 </ul>
 
 &#9677; 1.4.12 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Noise-Cancelling-700-Firmware-Update-1-4-12-May-12th-2020/m-p/300552">May 12, 2020</a></br>
-❌ Bug in firmware, confirmed by Bose, that caused the headphones "<a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Bose-NC-700-Red-White-blinking-LED-UPDATE-7-30-1-5-1-discussion/td-p/306547/page/22">lights to blink red and white</a>"<ul>
+❌ Bug in firmware, confirmed by Bose, that caused the headphones lights to "<a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Bose-NC-700-Red-White-blinking-LED-UPDATE-7-30-1-5-1-discussion/td-p/306547/page/22">blink red and white</a>"<ul>
   <li>Adjustable Equalizer: Personalize the audio on your NC700 Headphones from the Bose Music App. This includes adjusting bass, mids, and treble. Download the Bose Music app and give this feature a try!</li>
   <li>China only - Access to Tencent’s Xiaowei voice assistant.  With the Xiaowei voice assistant, you can use your voice to accomplish various tasks such as start and control music from QQ Music, change the volume, and ask questions.</li>
   <li>Bug Fixes and Enhancements:</li>
