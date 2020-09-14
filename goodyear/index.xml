@@ -12,9 +12,17 @@
       </RELEASE>
       <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.3.1-2028+de73ce1" URLPATH="/bosefirmware/ced/master/goodyear/">
         <IMAGE CRC="0XA454A264" FILENAME="goodyear_encrypted_prod_1.3.1-de73ce1.bin" LENGTH="6823012" NOFORCE="1" REVISION="1.3.1-2028+de73ce1" SUBID="0" />
-      </RELEASE>      
+      </RELEASE> 
+      <?ignore     
       <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.4.12-6283+9f658fd" URLPATH="/bosefirmware/ced/master/goodyear/">
         <IMAGE CRC="0X41D33E8C" FILENAME="goodyear_encrypted_prod_1.4.12-9f658fd.bin" LENGTH="6008478" NOFORCE="1" REVISION="1.4.12-6283+9f658fd" SUBID="0" />
+      </RELEASE>
+      ?>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.5.1-9303+d287f23" URLPATH="/bosefirmware/ced/master/goodyear/">
+        <IMAGE CRC="0X6B49977E" FILENAME="goodyear_encrypted_prod_1.5.1-d287f23.bin" LENGTH="6013822" NOFORCE="1" REVISION="1.5.1-9303+d287f23" SUBID="0"/>
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.7.0-10068+f3675e6" URLPATH="/bosefirmware/ced/master/goodyear/">
+        <IMAGE CRC="0X606119FF" FILENAME="goodyear_encrypted_prod_1.7.0-f3675e6.bin" LENGTH="6014750" NOFORCE="1" REVISION="1.7.0-10068+f3675e6" SUBID="0"/>
       </RELEASE>
     </HARDWARE>
   </DEVICE>
