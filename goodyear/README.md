@@ -45,3 +45,33 @@ Bose Noise Cancelling Headphones 700 = Goodyear</br>
     </ul>
   </ul>
 </ul>
+
+&#9677; 1.5.1 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Bose-NC-700-Red-White-blinking-LED-UPDATE-7-30-1-5-1-discussion/td-p/306547/page/22">Nov 11, 2020</a></br>
+<ul>
+  <li>Address the issue with red and white blinking lights.</li>
+    <ul>
+      <li>It will restore operability of the headset to all users impacted by red and white LEDs and allow any future red and white LEDs to be cleared by pressing the power button on the headset.</li>
+      <li>Lastly, it will also build on the existing features originally released with v1.4.12. This version will be first made available to users who have already updated to 1.4.12.</li>
+      </ul>
+  <li>We will provide more information as to how members running versions of firmware prior to 1.4.12 can update to 1.5.1 or a firmware with the included features later, but felt it was important to release this fix to the customers most affected as soon as possible.</li>
+  <li>To clarify, the red and white blinking LED status is meant to indicate that the NC700 has detected an error condition. The headset can enter this state with any firmware version. Even with firmware 1.5.1, it will still be possible for the headset to get into an error state. What firmware 1.5.1 does is provide the ability to clear the indicator if the error condition is no longer present.</li>
+</ul>
+
+&#9677; 1.7.0 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Noise-Cancelling-700-Firmware-Update-1-7-0-September-14th-2020/m-p/546521">Sep 14, 2020</a></br>
+<ul>
+  <li>Adjustable Equalizer: Personalize the audio on your NC700 Headphones from the Bose Music App. This includes adjusting bass, mids, and treble. Download the Bose Music app and give this feature a try! </li>
+  <li>China only</li>
+    <ul>
+      <li>Access to Tencent’s Xiaowei voice assistant.  With the Xiaowei voice assistant, you can use your voice to accomplish various tasks such as start and control music from QQ Music, change the volume, and ask questions.</li>
+    </ul>
+  <li>Bug Fixes and Enhancements:</li>
+    <ul>
+      <li>Bluetooth connection reliability</li>
+      <li>Improvements to incorrect battery level announcements</li>
+      <li>Improvements to red and white LED error occurrences</li>
+      <ul>
+        <li>If you are experiencing the red and white blinking LED indicator, pressing the power button will clear the indicator and you can resume using the headset.</li>
+      </ul>
+      <li>Improvements to audio “stuttering” during VOIP calls in multi-point mode</li>
+    </ul>
+</ul>
