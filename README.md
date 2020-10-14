@@ -2,6 +2,8 @@
 
 <a href="https://community.bose.com/t5/Portable-Archive/Upcoming-Changes-to-the-Bluetooth-Updater-Website/m-p/147819">Bose's statement on why they no longer offer software downgrades</a>
 
+Current version: <b>7.0.6.4815</b>
+
 <b>BOSE DOWNGRADE PROCESS:</b> 
 <ol>
   <li>Make sure you close the app before replacing the file. You can close it on the taskbar (right click -> exit)</li>
