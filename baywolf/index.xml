@@ -53,6 +53,11 @@
         <IMAGE CRC="0XC64078AA" FILENAME="BayWolf_4.5.2_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="4.5.2.144" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_4.5.2_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="4.5.2.144" SUBID="2" TARGET="3" />
       </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="4.8.1.321" URLPATH="/bosefirmware/ced/master/baywolf/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_4.8.1_stack_plus_app.dfu" LENGTH="1960636" NOFORCE="1" REVISION="4.8.1.321" SUBID="0"/>
+        <IMAGE CRC="0X165726D1" FILENAME="BayWolf_4.8.1_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="4.8.1.321" SUBID="1" TARGET="1"/>
+        <IMAGE CRC="0X2E786C2C" FILENAME="BayWolf_4.8.1_acorn_coeffs_signed.xuv" LENGTH="39568" NOFORCE="0" REVISION="4.8.1.321" SUBID="2" TARGET="3"/>
+      </RELEASE>
     </HARDWARE>
   </DEVICE>
 </INDEX>
