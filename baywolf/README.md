@@ -74,8 +74,7 @@ Features:
   <li>Self-Voice is an easy way to adjust how much of your own voice you can hear while on a call. Check it out under your device settings in the latest version of the Bose Connect app.</li></ul></li>
   <li>Battery level voice prompts when your headset is using wired connection.<ul>
   <li>Examples include “battery low, please charge now” and battery level percentage prompts.</li></ul></li>
-</ul>
-Bug Fixes and Enhancements:
+</ul>Bug Fixes and Enhancements:
 <ul>
   <li>Ability to set a sleep timer in wired mode.</li>
   <li>Improved Bluetooth experience while connected to multiple devices.<ul>
