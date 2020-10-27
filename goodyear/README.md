@@ -46,7 +46,7 @@ Bose Noise Cancelling Headphones 700 = Goodyear</br>
   </ul>
 </ul>
 
-&#9677; 1.5.1 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Bose-NC-700-Red-White-blinking-LED-UPDATE-7-30-1-5-1-discussion/td-p/306547/page/22">Nov 11, 2020</a></br>
+&#9677; 1.5.1 : <a href="https://community.bose.com/t5/Around-On-Ear-Headphones/Bose-NC-700-Red-White-blinking-LED-UPDATE-7-30-1-5-1-discussion/td-p/306547/page/22">Jul 30, 2020</a></br>
 <ul>
   <li>Address the issue with red and white blinking lights.</li>
     <ul>
