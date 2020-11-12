@@ -25,3 +25,8 @@ Bose SoundLink Color II = Foreman<br>
   <li>Pairing with Windows 10 is easier than ever before</li>
   <li>Fixed bugs and did some general cleaning up under the hood</li>
 </ul>
+&#9677; 3.0.5 : <a href="https://community.bose.com/t5/Portable/SoundLink-Color-II-Firmware-update-3-0-5-October-20th-2020/m-p/557286">Oct 20, 2020</a><br>
+<ul>
+  <li>Improvements to phone call routing and audio when using the speaker for phone calls.</li>
+  <li>Fixed bugs and did some general cleaning up under the hood.</li>
+</ul>
