@@ -30,3 +30,8 @@ Bose SoundLink Color II = Foreman<br>
   <li>Improvements to phone call routing and audio when using the speaker for phone calls.</li>
   <li>Fixed bugs and did some general cleaning up under the hood.</li>
 </ul>
+&#9677; 4.0.1 : <a href="https://www.boselatam.com/en_ar/support/articles/HC2300/productCodes/soundlink_color_ii/article.html">May 26, 2022</a><br>
+<ul>
+  <li>General improvements and bug fixes, including improvements when charging the speaker.</li>
+  <li>The speaker will no longer automatically power on when connected to some source devices, like computers.</li>
+</ul>
