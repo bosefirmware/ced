@@ -34,6 +34,9 @@
       <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl,ko,sv" REVISION="3.0.6.6652" URLPATH="/bosefirmware/ced/master/foreman/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Foreman_3.0.5_stack_plus_app.dfu" LENGTH="1753874" NOFORCE="1" REVISION="3.0.6.6652" SUBID="0"/>
       </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl,ko,sv" REVISION="4.0.1.6695" URLPATH="/bosefirmware/ced/master/foreman/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Foreman_4.0.1_stack_plus_app.dfu" LENGTH="1753874" NOFORCE="1" REVISION="4.0.1.6695" SUBID="0"/>
+      </RELEASE>
     </HARDWARE>
   </DEVICE>
 </INDEX>
