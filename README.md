@@ -1,40 +1,14 @@
 # Bose Firmware
 
-<a href="https://community.bose.com/t5/Portable-Archive/Upcoming-Changes-to-the-Bluetooth-Updater-Website/m-p/147819">Bose's statement on why they no longer offer software downgrades</a>
+<a href="https://web.archive.org/web/20210923191638/https://community.bose.com/t5/Portable-Archive/Upcoming-Changes-to-the-Bluetooth-Updater-Website/m-p/147819">Bose's statement on why they no longer offer software downgrades</a>
 
-Current version: <b>7.0.13.4860</b>
+"<a href="https://github.com/tchebb/bose-dfu">https://github.com/tchebb/bose-dfu</a> is an open-source, command-line firmware update tool for certain Bose speakers and headphones. Unlike Bose's official updater, bose-dfu
 
-<b>BOSE DOWNGRADE PROCESS:</b> 
-<ol>
-  <li>Make sure you close the app before replacing the file. You can close it on the taskbar (right click -> exit)</li>
-  <li><b>Windows</b> :
-    <ol>
-      <li>Download the edited BOSEUPDATER.EXE <a href="https://github.com/bosefirmware/ced/raw/master/BOSEUPDATER.EXE">here</a> (Link to <b>unedited</b> full install of version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdaterInstaller_6.0.0.4388.exe">6.0.0.4388</a>)</li>
-      <li>Copy and replace the file in "C:\Program Files (x86)\Bose Updater"</li>
-      <li>Open the file. If you get a warning that says "Windows protected your PC". Select "More info" and click "Run anyway"</li>
-    </ol>
-  </li>  
-  <li><b>macOS</b> :
-    <ol>
-      <li>If you already have the "Bose Updater" app installed. Please Delete.</li>
-      <li>Download the edited "Bose Updater" app <a href="https://github.com/bosefirmware/ced/raw/master/Bose%20Updater.zip">here</a> (Link to <b>unedited</b> full install of version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdater_6.0.0.4388.dmg">6.0.0.4388</a>)</li>
-      <li>Move "Bose Updater" to the "Applications" Folder</li>
-      <li>Open up Terminal (located in "Applications/Utilities")</li>
-      <li>In terminal type in : xattr -cr /Applications/"Bose Updater.app"</li>
-    </ol>
-  </li>  
-  <li>Plug your headset or speaker and go to https://btu.bose.com</li>
-  <li>When prompted launch the app.</li>
-  <li>When you see this screen (<a href="https://imgur.com/a/xGijdYC">Screenshot 1</a>) press the following key combination: 'a' 'd' 'v' 'up arrow' 'down arrow' and you will see the following screen (<a href="https://imgur.com/a/yTLalsc">Screenshot 2</a>)</li>
-  <li>Now you can select the firmware and click on Update.</li>
-  <li>Wait for the update process to complete
-    <ol>
-      <li><b>WARNING</b> : If you have <b>QC35 II</b> headphones with a serial number that ends in <b>AZ</b>. <b>Do NOT</b> downgrade below 2.1.3. Doing so can <b>BRICK YOUR QC35 II!!!</b></li>
-    </ol>
-  </li>
-  <li>Enjoy your OLDER FIRMWARE! Cheers!</li>
-</ol></br>
-The instructions provided were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br>
+- runs on Windows, macOS, Linux, and any other OS supported by Rust and HIDAPI
+- can downgrade firmware as well as upgrade it
+- doesn't rely on a web service to run"
+
+https://github.com/tchebb/bose-dfu/releases
 
 ## Menu
 ced
@@ -66,3 +40,38 @@ Bose SoundWear Companion speaker = Kleos <a href="https://github.com/bosefirmwar
 <a href="https://github.com/bosefirmware/bosebuild">bosebuild</a></br>
 <a href="https://github.com/bosefirmware/pro">pro</a></br>
 </br></br>
+
+Old downgrade method, no longer working<br/>
+<s>Current version: <b>7.0.13.4860</b>
+
+<b>BOSE DOWNGRADE PROCESS:</b> 
+<ol>
+  <li>Make sure you close the app before replacing the file. You can close it on the taskbar (right click -> exit)</li>
+  <li><b>Windows</b> :
+    <ol>
+      <li>Download the edited BOSEUPDATER.EXE <a href="https://github.com/bosefirmware/ced/raw/master/BOSEUPDATER.EXE">here</a> (Link to <b>unedited</b> full install of version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdaterInstaller_6.0.0.4388.exe">6.0.0.4388</a>)</li>
+      <li>Copy and replace the file in "C:\Program Files (x86)\Bose Updater"</li>
+      <li>Open the file. If you get a warning that says "Windows protected your PC". Select "More info" and click "Run anyway"</li>
+    </ol>
+  </li>  
+  <li><b>macOS</b> :
+    <ol>
+      <li>If you already have the "Bose Updater" app installed. Please Delete.</li>
+      <li>Download the edited "Bose Updater" app <a href="https://github.com/bosefirmware/ced/raw/master/Bose%20Updater.zip">here</a> (Link to <b>unedited</b> full install of version <a href="https://github.com/bosefirmware/ced/raw/master/BoseUpdater_6.0.0.4388.dmg">6.0.0.4388</a>)</li>
+      <li>Move "Bose Updater" to the "Applications" Folder</li>
+      <li>Open up Terminal (located in "Applications/Utilities")</li>
+      <li>In terminal type in : xattr -cr /Applications/"Bose Updater.app"</li>
+    </ol>
+  </li>  
+  <li>Plug your headset or speaker and go to https://btu.bose.com</li>
+  <li>When prompted launch the app.</li>
+  <li>When you see this screen (<a href="https://imgur.com/a/xGijdYC">Screenshot 1</a>) press the following key combination: 'a' 'd' 'v' 'up arrow' 'down arrow' and you will see the following screen (<a href="https://imgur.com/a/yTLalsc">Screenshot 2</a>)</li>
+  <li>Now you can select the firmware and click on Update.</li>
+  <li>Wait for the update process to complete
+    <ol>
+      <li><b>WARNING</b> : If you have <b>QC35 II</b> headphones with a serial number that ends in <b>AZ</b>. <b>Do NOT</b> downgrade below 2.1.3. Doing so can <b>BRICK YOUR QC35 II!!!</b></li>
+    </ol>
+  </li>
+  <li>Enjoy your OLDER FIRMWARE! Cheers!</li>
+</ol></br>
+The instructions provided were modified from instructions <a href="https://www.reddit.com/r/bose/comments/ch6kxl/how_to_downgrade_your_bose_quietcomfort_35_ii/">found on reddit</a></br></s>
